@@ -1,0 +1,337 @@
+;;Estabelecimentos nos ensinos pré-escolar, básico e secundário: por nível de ensino;;;;
+;;Onde há mais e menos escolas do pré-escolar, básico ou secundário?;;;;
+;;Estabelecimento de ensino;;;;
+Territórios;;Nível de ensino;;;;
+;;Educação Pré-Escolar;Ensino Básico - 1º Ciclo;Ensino Básico - 2º Ciclo;Ensino Básico - 3º Ciclo;Ensino Secundário
+Âmbito Geográfico;;2019;2019;2019;2019;2019
+Município;ARCOS DE VALDEVEZ;10;4;3;3;2
+Município;CAMINHA;11;10;2;2;4
+Município;MELGAÇO;3;2;1;1;2
+Município;MONÇÃO;6;5;2;4;2
+Município;PAREDES DE COURA;5;1;1;1;2
+Município;PONTE DA BARCA;4;3;1;2;2
+Município;PONTE DE LIMA;19;14;4;7;4
+Município;VALENÇA;9;7;1;1;2
+Município;VIANA DO CASTELO;44;37;10;12;11
+Município;VILA NOVA DE CERVEIRA;4;3;1;1;2
+Município;AMARES;7;6;1;2;1
+Município;BARCELOS;81;65;11;17;11
+Município;BRAGA;100;75;22;26;15
+Município;ESPOSENDE;23;19;4;6;2
+Município;TERRAS DE BOURO;7;4;2;2;1
+Município;VILA VERDE;31;22;5;7;2
+Município;CABECEIRAS DE BASTO;10;7;2;3;2
+Município;FAFE;28;22;6;7;3
+Município;GUIMARÃES;85;61;17;19;11
+Município;MONDIM DE BASTO;5;2;1;1;1
+Município;PÓVOA DE LANHOSO;11;5;2;3;2
+Município;VIEIRA DO MINHO;5;4;1;1;1
+Município;VILA NOVA DE FAMALICÃO;76;55;10;14;9
+Município;VIZELA;11;11;3;4;4
+Município;AROUCA;13;12;2;2;2
+Município;ESPINHO;11;6;5;7;6
+Município;GONDOMAR;69;50;12;16;8
+Município;MAIA;66;39;10;10;8
+Município;MATOSINHOS;68;41;15;21;11
+Município;OLIVEIRA DE AZEMÉIS;41;29;8;8;4
+Município;PAREDES;33;17;8;10;7
+Município;PORTO;134;83;39;52;52
+Município;PÓVOA DE VARZIM;35;22;6;8;4
+Município;SANTA MARIA DA FEIRA;84;54;13;13;6
+Município;SANTO TIRSO;41;37;10;14;9
+Município;SÃO JOÃO DA MADEIRA;15;11;4;5;6
+Município;TROFA;20;17;4;4;3
+Município;VALE DE CAMBRA;14;10;2;2;1
+Município;VALONGO;47;34;10;13;6
+Município;VILA DO CONDE;47;36;6;7;3
+Município;VILA NOVA DE GAIA;139;103;23;33;19
+Município;BOTICAS;3;1;1;1;0
+Município;CHAVES;21;17;5;4;4
+Município;MONTALEGRE;3;3;2;2;2
+Município;RIBEIRA DE PENA;4;2;2;2;1
+Município;VALPAÇOS;8;4;2;2;1
+Município;VILA POUCA DE AGUIAR;10;3;2;2;1
+Município;AMARANTE;29;20;6;8;4
+Município;BAIÃO;16;5;3;3;1
+Município;CASTELO DE PAIVA;19;13;2;2;1
+Município;CELORICO DE BASTO;16;4;3;4;2
+Município;CINFÃES;11;11;2;3;2
+Município;FELGUEIRAS;38;29;7;9;6
+Município;LOUSADA;28;27;7;8;5
+Município;MARCO DE CANAVESES;44;35;4;9;5
+Município;PAÇOS DE FERREIRA;21;16;6;9;5
+Município;PENAFIEL;45;37;5;8;4
+Município;RESENDE;3;3;1;1;1
+Município;ALIJÓ;11;6;2;2;1
+Município;ARMAMAR;2;1;1;1;1
+Município;CARRAZEDA DE ANSIÃES;2;1;1;1;1
+Município;FREIXO DE ESPADA À CINTA;3;1;1;1;0
+Município;LAMEGO;16;7;3;4;6
+Município;MESÃO FRIO;1;1;1;1;1
+Município;MOIMENTA DA BEIRA;5;3;1;2;2
+Município;MURÇA;3;1;1;2;2
+Município;PENEDONO;2;1;1;1;0
+Município;PESO DA RÉGUA;8;2;1;2;2
+Município;SABROSA;6;1;1;1;1
+Município;SANTA MARTA DE PENAGUIÃO;5;4;1;1;0
+Município;SÃO JOÃO DA PESQUEIRA;6;4;1;2;2
+Município;SERNANCELHE;2;1;1;1;1
+Município;TABUAÇO;1;1;1;1;1
+Município;TAROUCA;3;1;1;1;1
+Município;TORRE DE MONCORVO;8;1;1;1;1
+Município;VILA NOVA DE FOZ CÔA;3;2;1;1;1
+Município;VILA REAL;28;20;4;7;6
+Município;ALFÂNDEGA DA FÉ;4;1;1;1;1
+Município;BRAGANÇA;19;15;3;6;5
+Município;MACEDO DE CAVALEIROS;8;4;1;1;2
+Município;MIRANDA DO DOURO;4;3;2;2;1
+Município;MIRANDELA;11;6;2;4;3
+Município;MOGADOURO;3;2;1;1;1
+Município;VILA FLOR;9;5;1;1;1
+Município;VIMIOSO;2;1;1;1;0
+Município;VINHAIS;6;2;1;1;1
+Município;ALCOBAÇA;33;29;5;6;4
+Município;ALENQUER;19;21;4;4;1
+Município;ARRUDA DOS VINHOS;5;4;1;2;2
+Município;BOMBARRAL;5;2;1;1;1
+Município;CADAVAL;11;10;1;1;1
+Município;CALDAS DA RAINHA;33;29;5;7;5
+Município;LOURINHÃ;15;15;3;3;1
+Município;NAZARÉ;6;4;1;2;3
+Município;ÓBIDOS;11;3;3;1;1
+Município;PENICHE;14;15;3;4;2
+Município;SOBRAL DE MONTE AGRAÇO;5;3;1;1;1
+Município;TORRES VEDRAS;52;44;9;11;7
+Município;ÁGUEDA;27;14;5;6;2
+Município;ALBERGARIA-A-VELHA;22;14;4;4;3
+Município;ANADIA;19;13;4;4;4
+Município;AVEIRO;53;35;10;13;7
+Município;ESTARREJA;15;8;3;3;1
+Município;ÍLHAVO;25;18;3;4;2
+Município;MURTOSA;6;4;2;2;1
+Município;OLIVEIRA DO BAIRRO;16;9;2;3;2
+Município;OVAR;33;21;5;8;4
+Município;SEVER DO VOUGA;10;10;1;1;2
+Município;VAGOS;12;10;2;4;3
+Município;ARGANIL;7;6;2;3;1
+Município;CANTANHEDE;24;19;6;6;3
+Município;COIMBRA;80;69;19;22;17
+Município;CONDEIXA-A-NOVA;8;6;1;2;1
+Município;FIGUEIRA DA FOZ;36;31;4;8;5
+Município;GÓIS;4;3;1;1;0
+Município;LOUSÃ;7;4;2;2;2
+Município;MEALHADA;13;6;2;3;2
+Município;MIRA;8;8;1;1;1
+Município;MIRANDA DO CORVO;9;8;2;2;1
+Município;MONTEMOR-O-VELHO;15;9;4;6;3
+Município;MORTÁGUA;2;1;1;2;1
+Município;OLIVEIRA DO HOSPITAL;22;12;4;5;2
+Município;PAMPILHOSA DA SERRA;3;2;1;1;1
+Município;PENACOVA;9;6;2;3;2
+Município;PENELA;3;3;1;1;1
+Município;SOURE;15;11;2;2;2
+Município;TÁBUA;10;4;2;2;2
+Município;VILA NOVA DE POIARES;5;3;1;1;1
+Município;ALVAIÁZERE;2;2;1;1;2
+Município;ANSIÃO;10;6;2;2;2
+Município;BATALHA;12;10;2;2;1
+Município;CASTANHEIRA DE PÊRA;1;1;1;1;0
+Município;FIGUEIRÓ DOS VINHOS;5;3;1;1;1
+Município;LEIRIA;94;69;14;16;9
+Município;MARINHA GRANDE;21;21;4;6;5
+Município;PEDRÓGÃO GRANDE;3;2;1;1;1
+Município;POMBAL;34;29;7;9;6
+Município;PORTO DE MÓS;19;16;3;3;3
+Município;AGUIAR DA BEIRA;4;3;1;1;1
+Município;CARREGAL DO SAL;2;2;2;3;1
+Município;CASTRO DAIRE;14;13;2;4;2
+Município;MANGUALDE;16;8;1;2;1
+Município;NELAS;14;7;2;3;2
+Município;OLIVEIRA DE FRADES;10;3;1;1;1
+Município;PENALVA DO CASTELO;5;4;1;1;1
+Município;SANTA COMBA DÃO;4;3;1;1;1
+Município;SÃO PEDRO DO SUL;12;9;2;3;2
+Município;SÁTÃO;9;5;2;3;1
+Município;TONDELA;24;11;4;6;3
+Município;VILA NOVA DE PAIVA;4;4;1;2;1
+Município;VISEU;70;56;11;14;6
+Município;VOUZELA;8;9;2;3;2
+Município;CASTELO BRANCO;28;22;6;9;5
+Município;IDANHA-A-NOVA;9;5;1;2;2
+Município;OLEIROS;4;3;1;1;1
+Município;PENAMACOR;2;2;1;1;1
+Município;PROENÇA-A-NOVA;3;2;1;1;1
+Município;VILA VELHA DE RÓDÃO;1;1;1;1;0
+Município;ABRANTES;20;14;3;5;4
+Município;ALCANENA;13;10;2;2;1
+Município;CONSTÂNCIA;3;3;1;1;1
+Município;ENTRONCAMENTO;7;5;1;3;2
+Município;FERREIRA DO ZÊZERE;3;2;1;1;1
+Município;MAÇÃO;3;2;1;1;1
+Município;OURÉM;28;25;7;7;5
+Município;SARDOAL;2;1;1;1;1
+Município;SERTÃ;10;8;2;2;4
+Município;TOMAR;23;20;3;5;3
+Município;TORRES NOVAS;19;11;4;6;3
+Município;VILA DE REI;2;1;1;1;1
+Município;VILA NOVA DA BARQUINHA;6;2;1;1;1
+Município;ALMEIDA;2;3;2;2;2
+Município;BELMONTE;7;2;1;1;1
+Município;CELORICO DA BEIRA;5;6;1;1;1
+Município;COVILHÃ;38;29;6;9;5
+Município;FIGUEIRA DE CASTELO RODRIGO;5;4;1;1;1
+Município;FORNOS DE ALGODRES;4;2;1;1;1
+Município;FUNDÃO;22;23;4;6;3
+Município;GOUVEIA;14;8;2;3;2
+Município;GUARDA;28;25;5;5;4
+Município;MANTEIGAS;2;1;1;1;2
+Município;MÊDA;2;1;1;1;1
+Município;PINHEL;4;6;1;1;1
+Município;SABUGAL;7;7;2;2;1
+Município;SEIA;19;11;4;5;3
+Município;TRANCOSO;8;5;2;3;2
+Município;ALCOCHETE;10;7;2;2;1
+Município;ALMADA;94;51;17;22;14
+Município;AMADORA;75;46;17;18;9
+Município;BARREIRO;38;25;8;10;7
+Município;CASCAIS;110;81;31;27;19
+Município;LISBOA;276;188;88;101;76
+Município;LOURES;91;65;16;22;10
+Município;MAFRA;37;20;7;7;5
+Município;MOITA;26;22;6;8;3
+Município;MONTIJO;28;22;5;6;3
+Município;ODIVELAS;64;38;10;16;8
+Município;OEIRAS;80;44;15;16;12
+Município;PALMELA;30;25;7;7;5
+Município;SEIXAL;80;44;10;15;8
+Município;SESIMBRA;24;15;5;6;3
+Município;SETÚBAL;56;41;10;11;10
+Município;SINTRA;179;109;29;36;17
+Município;VILA FRANCA DE XIRA;51;38;11;10;8
+Município;ALCÁCER DO SAL;6;7;2;2;1
+Município;GRÂNDOLA;10;9;1;3;2
+Município;ODEMIRA;21;17;5;6;3
+Município;SANTIAGO DO CACÉM;21;17;4;4;2
+Município;SINES;7;4;1;2;2
+Município;ALJUSTREL;7;5;1;2;1
+Município;ALMODÔVAR;5;5;1;1;1
+Município;ALVITO;2;1;1;2;1
+Município;BARRANCOS;1;1;1;1;0
+Município;BEJA;24;15;4;6;3
+Município;CASTRO VERDE;5;4;1;2;1
+Município;CUBA;4;3;1;2;1
+Município;FERREIRA DO ALENTEJO;7;6;1;1;1
+Município;MÉRTOLA;7;5;1;1;2
+Município;MOURA;10;11;2;4;2
+Município;OURIQUE;5;3;1;1;1
+Município;SERPA;7;8;3;4;2
+Município;VIDIGUEIRA;5;4;1;1;1
+Município;ALMEIRIM;11;9;2;3;1
+Município;ALPIARÇA;3;3;1;1;1
+Município;AZAMBUJA;11;10;3;4;1
+Município;BENAVENTE;14;10;3;4;1
+Município;CARTAXO;8;10;2;3;1
+Município;CHAMUSCA;9;5;1;1;1
+Município;CORUCHE;11;10;2;4;2
+Município;GOLEGÃ;3;2;1;1;1
+Município;RIO MAIOR;9;10;2;3;2
+Município;SALVATERRA DE MAGOS;9;6;2;3;2
+Município;SANTARÉM;40;36;6;9;4
+Município;ALTER DO CHÃO;2;1;1;2;2
+Município;ARRONCHES;3;1;1;1;1
+Município;AVIS;4;4;1;1;0
+Município;CAMPO MAIOR;3;1;1;1;1
+Município;CASTELO DE VIDE;3;1;1;1;0
+Município;CRATO;2;1;1;1;1
+Município;ELVAS;18;12;4;5;1
+Município;FRONTEIRA;3;2;1;1;0
+Município;GAVIÃO;4;2;1;1;0
+Município;MARVÃO;2;2;1;1;0
+Município;MONFORTE;4;4;1;1;0
+Município;NISA;3;1;1;1;1
+Município;PONTE DE SOR;11;10;2;2;1
+Município;PORTALEGRE;17;10;2;3;3
+Município;SOUSEL;5;4;1;1;1
+Município;ALANDROAL;3;3;1;1;0
+Município;ARRAIOLOS;6;4;1;1;1
+Município;BORBA;4;2;1;1;0
+Município;ESTREMOZ;10;9;1;2;1
+Município;ÉVORA;33;23;5;10;5
+Município;MONTEMOR-O-NOVO;11;11;1;2;1
+Município;MORA;5;3;1;1;1
+Município;MOURÃO;3;3;1;1;0
+Município;PORTEL;7;4;1;1;1
+Município;REDONDO;3;2;1;1;1
+Município;REGUENGOS DE MONSARAZ;8;6;1;2;1
+Município;VENDAS NOVAS;6;4;2;3;1
+Município;VIANA DO ALENTEJO;4;3;2;2;1
+Município;VILA VIÇOSA;5;4;1;1;1
+Município;ALBUFEIRA;18;13;6;8;3
+Município;ALCOUTIM;2;2;1;1;0
+Município;ALJEZUR;3;3;1;1;0
+Município;CASTRO MARIM;5;3;1;1;0
+Município;FARO;32;24;8;10;5
+Município;LAGOA;12;8;4;5;2
+Município;LAGOS;15;14;4;6;3
+Município;LOULÉ;38;27;8;10;4
+Município;MONCHIQUE;2;3;1;1;0
+Município;OLHÃO;19;15;7;7;2
+Município;PORTIMÃO;22;13;7;9;5
+Município;SÃO BRÁS DE ALPORTEL;4;5;1;2;1
+Município;SILVES;17;15;5;6;2
+Município;TAVIRA;15;10;2;2;1
+Município;VILA DO BISPO;3;4;2;1;0
+Município;VILA REAL DE SANTO ANTÓNIO;7;5;3;4;2
+Município;VILA DO PORTO;6;5;1;1;1
+Município;LAGOA [R.A.A.];10;8;2;2;2
+Município;NORDESTE;6;5;1;1;2
+Município;PONTA DELGADA;39;35;7;7;11
+Município;POVOAÇÃO;8;7;2;2;2
+Município;RIBEIRA GRANDE;22;15;3;3;2
+Município;VILA FRANCA DO CAMPO;6;4;2;2;2
+Município;ANGRA DO HEROÍSMO;28;17;4;4;4
+Município;VILA DA PRAIA DA VITÓRIA;20;16;2;3;2
+Município;SANTA CRUZ DA GRACIOSA;5;4;1;1;1
+Município;CALHETA [R.A.A.];4;2;2;2;1
+Município;VELAS;3;4;1;1;2
+Município;LAJES DO PICO;4;3;2;1;1
+Município;MADALENA;5;5;1;1;2
+Município;SÃO ROQUE DO PICO;3;2;1;1;1
+Município;HORTA;12;10;1;1;2
+Município;LAJES DAS FLORES;1;1;1;0;0
+Município;SANTA CRUZ DAS FLORES;3;2;1;1;1
+Município;CORVO;1;1;1;1;1
+Município;CALHETA [R.A.M.];7;6;1;1;1
+Município;CÂMARA DE LOBOS;17;12;3;3;2
+Município;FUNCHAL;52;35;12;13;15
+Município;MACHICO;7;6;3;3;1
+Município;PONTA DO SOL;7;6;1;1;1
+Município;PORTO MONIZ;1;1;1;1;1
+Município;RIBEIRA BRAVA;6;6;2;2;1
+Município;SANTA CRUZ;14;9;3;3;1
+Município;SANTANA;4;4;2;2;1
+Município;SÃO VICENTE;3;2;1;1;1
+Município;PORTO SANTO;2;2;1;1;1
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+Estabelecimentos nos ensinos pré-escolar, básico e secundário: por nível de ensino;;;;;;
+Fontes de Dados: DGEEC/ME-MCTES - Recenseamento Escolar;;;;;;
+Fonte: PORDATA;;;;;;
+Última actualização: 2020-07-28;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+Simbologia;;;;;;
+?;;Pro;Valor provisório;Pre;Valor preliminar;
+...;;x;Valor não disponível;e;Dado inferior a metade do módulo da unidade utilizada;
+//;;f;Valor previsto;§;Dado com coeficiente de variação elevado;
+-;;Rv;Valor revisto;(R);Dados rectificados pela entidade responsável;
+;;;;;;
+;;;;;;
+;;;;;;
+;;;;;;
+Dados obtidos em https:www.pordata.pt a 08-05-2021;;;;;;
+;;;;;;
+ ;; ; ; ; ; 
