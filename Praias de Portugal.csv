@@ -1,808 +1,135 @@
-Praia;Location_ID;Freguesias;Municipio;Distrito
-Praia da Foz do Minho;160224;Moledo e Cristelo;CAMINHA;VIANA DO CASTELO
-Praia do Camarido;160224;Moledo e Cristelo;CAMINHA;VIANA DO CASTELO
-Praia de Moledo;160224;Moledo e Cristelo;CAMINHA;VIANA DO CASTELO
-Praia de Vila Praia de Ancora;160217;Vila Praia de Ancora;CAMINHA;VIANA DO CASTELO
-Praia da Duna do Caldeirao;160201;Ancora;CAMINHA;VIANA DO CASTELO
-Praia do Forte do Cao;160201;Ancora;CAMINHA;VIANA DO CASTELO
-Praia da Gelfa;160901;Afife;VIANA DO CASTELO;VIANA DO CASTELO
-Praia da Insua;160901;Afife;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Afife;160901;Afife;VIANA DO CASTELO;VIANA DO CASTELO
-Praia da Arda;160901;Afife;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Paco;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Fornelos e Promontorio de Montedor;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Carreco;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Camarido;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Lumiar;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Canto Marinho;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Marco Branco;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Porto de Vinha;160905;Areosa;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Norte;160948;Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Coral;160948;Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Cabedelo;160911;Darque;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Luzia Mar;160911;Darque;VIANA DO CASTELO;VIANA DO CASTELO
-Praia do Rodanho;160904;Anha;VIANA DO CASTELO;VIANA DO CASTELO
-Praia da Amorosa;160940;Chafe;VIANA DO CASTELO;VIANA DO CASTELO
-Praia da Amorosa (Sul);160940;Chafe;VIANA DO CASTELO;VIANA DO CASTELO
-Praia da Pedra Alta;160910;Castelo do Neiva;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Castelo do Neiva;160910;Castelo do Neiva;VIANA DO CASTELO;VIANA DO CASTELO
-Praia de Antas;30601;Antas;ESPOSENDE;BRAGA
-Praia de Belinho;30617;Belinho e Mar;ESPOSENDE;BRAGA
-Praia de Sao Bartolomeu do Mar;30617;Belinho e Mar;ESPOSENDE;BRAGA
-Praia de Rio de Moinhos;30618;Esposende, Marinhas e Gandra;ESPOSENDE;BRAGA
-Praia de Barrelas;30618;Esposende, Marinhas e Gandra;ESPOSENDE;BRAGA
-Praia de Marinhas;30618;Esposende, Marinhas e Gandra;ESPOSENDE;BRAGA
-Praia de Cepaes;30618;Esposende, Marinhas e Gandra;ESPOSENDE;BRAGA
-Praia de Suave Mar;30618;Esposende, Marinhas e Gandra;ESPOSENDE;BRAGA
-Praia de Esposende;30618;Esposende, Marinhas e Gandra;ESPOSENDE;BRAGA
-Praia de Ofir;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia da Bonanca;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia de Fao;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia Nova;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia de Pedrinhas;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia de Apulia (Norte);30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia de Apulia;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia da Ramalha;30616;Apulia e Fao;ESPOSENDE;BRAGA
-Praia do Parque de Campismo;131307;Estela;POVOA DE VARZIM;PORTO
-Praia da Estela;131307;Estela;POVOA DE VARZIM;PORTO
-Praia do Rio Alto;131307;Estela;POVOA DE VARZIM;PORTO
-Praia da Barranha;131314;Agucadoura e Navais;POVOA DE VARZIM;PORTO
-Praia da Codixeira;131307;Estela;POVOA DE VARZIM;PORTO
-Praia da Agucadoura;131314;Agucadoura e Navais;POVOA DE VARZIM;PORTO
-Praia de Paimo;131314;Agucadoura e Navais;POVOA DE VARZIM;PORTO
-Praia das Pedras Negras;131314;Agucadoura e Navais;POVOA DE VARZIM;PORTO
-Praia de Santo Andre;131314;Agucadoura e Navais;POVOA DE VARZIM;PORTO
-Praia do Quiao;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia de Aver-o-Mar;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia da Boucinha;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia de Coim;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia do Esteiro;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia da Fragosa;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia do Fragosinho;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia de Pontes;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia da Lagoa-I;131313;Aver-o-Mar, Amorim e Terroso;POVOA DE VARZIM;PORTO
-Praia do Hotel;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia da Lagoa-II;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia da Lada-I;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia da Lada-II;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia dos Beijinhos;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia Verde;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia Azul;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia da Salgueira;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia do Carvalhido;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia Redonda;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia do Loule;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Praia do Leixao;131315;Povoa de Varzim, Beiriz e Argivai;POVOA DE VARZIM;PORTO
-Prainha;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia do Senhor dos Navegantes;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia dos Barcos;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia de Mar e Sol;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia de Luzimar;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia do Por do Sol;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia Atlantica;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia das Caxinas;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia da Olinda;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia do Turismo;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia Azul;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia da Ladeira;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia do Forno;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia do Seca;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia da Senhora da Guia;131628;Vila do Conde;VILA DO CONDE;PORTO
-Praia da Azurara;131604;Azurara;VILA DO CONDE;PORTO
-Praia de Arvore;131602;Arvore;VILA DO CONDE;PORTO
-Praia da Areia;131602;Arvore;VILA DO CONDE;PORTO
-Praia de Mindelo;131616;Mindelo;VILA DO CONDE;PORTO
-Praia de Mindelo (Sul);131616;Mindelo;VILA DO CONDE;PORTO
-Praia do Pinhal dos Electricos;131627;Vila Cha;VILA DO CONDE;PORTO
-Praia de Laderca;131627;Vila Cha;VILA DO CONDE;PORTO
-Praia da Terra Nova;131627;Vila Cha;VILA DO CONDE;PORTO
-Praia da Congreira;131627;Vila Cha;VILA DO CONDE;PORTO
-Praia de Vila Cha;131627;Vila Cha;VILA DO CONDE;PORTO
-Praia do Pucinho;131627;Vila Cha;VILA DO CONDE;PORTO
-Praia de Moreiro (Norte);131613;Labruge;VILA DO CONDE;PORTO
-Praia de Sao Paio;131613;Labruge;VILA DO CONDE;PORTO
-Praia de Labruge;131613;Labruge;VILA DO CONDE;PORTO
-Praia de Angeiras (Norte);130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Barreiro;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia Central;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Funtao;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia das Pedras Brancas;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia das Pedras do Corgo;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia das Pedras da Agudela;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia da Agudela;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia da Quebrada;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Marreco;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia da Memoria;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Facho;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Paraiso;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Cabo do Mundo;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia das Salinas;130813;Perafita, Lavra e Santa Cruz do Bispo;MATOSINHOS;PORTO
-Praia do Aterro;130812;Matosinhos e Leca da Palmeira;MATOSINHOS;PORTO
-Praia Azul;130812;Matosinhos e Leca da Palmeira;MATOSINHOS;PORTO
-Praia da Boa Nova;130812;Matosinhos e Leca da Palmeira;MATOSINHOS;PORTO
-Praia do Fuzelhas;130812;Matosinhos e Leca da Palmeira;MATOSINHOS;PORTO
-Praia de Leca da Palmeira;130812;Matosinhos e Leca da Palmeira;MATOSINHOS;PORTO
-Praia de Matosinhos;130812;Matosinhos e Leca da Palmeira;MATOSINHOS;PORTO
-Praia Internacional;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia do Castelo do Queijo;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia do Homem do Leme;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia do Molhe;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia de Gondarem;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia da Luz;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia dos Ingleses;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia do Ourigo;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia do Carneiro;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia das Pastoras;131216;Aldoar, Foz do Douro e Nevogilde;PORTO;PORTO
-Praia do Cabedelo do Douro;131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia de Lavadores;131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia das Pedras Amarelas;131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia da Estrela do Mar;131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia de Salgueiros;131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia da Sereia da Costa Verde;131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia de Canide (Norte);131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia de Canide (Sul);131704;Canidelo;VILA NOVA DE GAIA;PORTO
-Praia de Marbelo;131709;Madalena;VILA NOVA DE GAIA;PORTO
-Praia da Madalena (Norte);131709;Madalena;VILA NOVA DE GAIA;PORTO
-Praia da Madalena (Sul);131709;Madalena;VILA NOVA DE GAIA;PORTO
-Praia de Valadares (Norte);131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia do Sindicato;131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia de Valadares (Sul);131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia do Atlantico;131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia de Dunas Mar;131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia de Francelos;131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia de Francemar;131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia da Saozinha;131726;Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO
-Praia do Senhor da Pedra;131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia de Miramar (Norte);131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia de Miramar (Sul);131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia de Mar e Sol;131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia da Areia Branca;131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia da Aguda;131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia da Setima Arte;131701;Arcozelo;VILA NOVA DE GAIA;PORTO
-Praia da Granja;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO
-Praia de Bocamar;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO
-Praia do Hotel Solverde;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO
-Praia do Brito;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO
-Praia das Pedras da Mare;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO
-Praia do Areal da Marinha;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO
-Praia da Frente Azul;10702;Espinho;ESPINHO;AVEIRO
-Praia da Baia;10702;Espinho;ESPINHO;AVEIRO
-Praia da Rua 37;10702;Espinho;ESPINHO;AVEIRO
-Praia do Bairro Piscatorio;10705;Silvalde;ESPINHO;AVEIRO
-Praia de Silvalde;10705;Silvalde;ESPINHO;AVEIRO
-Praia de Paramos;10704;Paramos;ESPINHO;AVEIRO
-Praia de Esmoriz;11503;Esmoriz;OVAR;AVEIRO
-Praia de Esmoriz (Sul);11503;Esmoriz;OVAR;AVEIRO
-Praia de Cortegaca (Norte);11502;Cortegaca;OVAR;AVEIRO
-Praia de Cortegaca;11502;Cortegaca;OVAR;AVEIRO
-Praia de Cortegaca (Sul);11502;Cortegaca;OVAR;AVEIRO
-Praia de Sao Pedro de Maceda;11504;Maceda;OVAR;AVEIRO
-Praia das Dunas de Ovar;11509;Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa;OVAR;AVEIRO
-Praia do Furadouro;11509;Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa;OVAR;AVEIRO
-Praia do Furadouro (Sul);11509;Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa;OVAR;AVEIRO
-Praia da Marreta;11509;Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa;OVAR;AVEIRO
-Praia de Torrao do Lameiro;11509;Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa;OVAR;AVEIRO
-Praia da Torreira;11204;Torreira;MURTOSA;AVEIRO
-Praia da Colonia de Ferias;11204;Torreira;MURTOSA;AVEIRO
-Praia da Gaivina;11204;Torreira;MURTOSA;AVEIRO
-Praia de Muranzel;11204;Torreira;MURTOSA;AVEIRO
-Praia das Dunas de Sao Jacinto;10511;Sao Jacinto;AVEIRO;AVEIRO
-Praia de Sao Jacinto;10511;Sao Jacinto;AVEIRO;AVEIRO
-Praia Velha;11006;Gafanha da Nazare;ILHAVO;AVEIRO
-Praia Nova;11006;Gafanha da Nazare;ILHAVO;AVEIRO
-Praia da Barra (Sul);11005;Gafanha da Encarnacao;ILHAVO;AVEIRO
-Praia da Costa Nova;11005;Gafanha da Encarnacao;ILHAVO;AVEIRO
-Praia da Costa Nova (Sul);11005;Gafanha da Encarnacao;ILHAVO;AVEIRO
-Praia do Parque de Campismo;11007;Gafanha do Carmo;ILHAVO;AVEIRO
-Praia da Costinha;11007;Gafanha do Carmo;ILHAVO;AVEIRO
-Praia da Vagueira (Norte);11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia da Vagueira;11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia do Labrego;11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia da Duna Alta;11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia da Gafanha da Boa Hora;11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia da Ponte da Vagueira;11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia do Areao;11804;Gafanha da Boa Hora;VAGOS;AVEIRO
-Praia do Poco da Cruz;60804;Praia de Mira;MIRA;COIMBRA
-Praia de Mira;60804;Praia de Mira;MIRA;COIMBRA
-Praia de Mira (Sul);60804;Praia de Mira;MIRA;COIMBRA
-Praia do Palheirao;60214;Tocha;CANTANHEDE;COIMBRA
-Praia dos Almadoiros;60214;Tocha;CANTANHEDE;COIMBRA
-Praia da Tocha;60214;Tocha;CANTANHEDE;COIMBRA
-Praia da Costinha;60515;Bom Sucesso;FIGUEIRA DA FOZ;COIMBRA
-Praia de Quiaios;60524;Quiaios;FIGUEIRA DA FOZ;COIMBRA
-Praia da Murtinheira;60524;Quiaios;FIGUEIRA DA FOZ;COIMBRA
-Praia da Laje do Costado;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia da Pedra da Nau;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia da Fonte das Pombas;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Teimoso;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Cabo Mondego;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia da Tamargueira;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia de Buarcos;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Alto do Viso;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Relogio;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Molhe Norte;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Forte de Santa Catarina;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA
-Praia do Cabedelo;60514;Sao Pedro;FIGUEIRA DA FOZ;COIMBRA
-Praia do Cabedelo (Sul);60514;Sao Pedro;FIGUEIRA DA FOZ;COIMBRA
-Praia do Hospital;60514;Sao Pedro;FIGUEIRA DA FOZ;COIMBRA
-Praia da Cova Gala (Norte);60514;Sao Pedro;FIGUEIRA DA FOZ;COIMBRA
-Praia da Cova Gala (Sul);60514;Sao Pedro;FIGUEIRA DA FOZ;COIMBRA
-Praia da Costa de Lavos;60522;Lavos;FIGUEIRA DA FOZ;COIMBRA
-Praia da Leirosa;60508;Marinha das Ondas;FIGUEIRA DA FOZ;COIMBRA
-Praia do Osso da Baleia;101505;Carrico;POMBAL;LEIRIA
-Praia do Fausto (Norte);100909;Coimbrao;LEIRIA;LEIRIA
-Praia do Fausto (Sul);100909;Coimbrao;LEIRIA;LEIRIA
-Praia do Pedrogao;100909;Coimbrao;LEIRIA;LEIRIA
-Praia do Pedrogao (Sul);100909;Coimbrao;LEIRIA;LEIRIA
-Praia do Vigao;100909;Coimbrao;LEIRIA;LEIRIA
-Praia da Vieira (Norte);101002;Vieira de Leiria;MARINHA GRANDE;LEIRIA
-Praia da Vieira;101002;Vieira de Leiria;MARINHA GRANDE;LEIRIA
-Praia do Samouco;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia das Pedras Negras;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia Velha;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia da Concha;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia da Descida da Areia;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia de Sao Pedro de Moel;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia das Valeiras;101001;Marinha Grande;MARINHA GRANDE;LEIRIA
-Praia da agua de Madeiros;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia da Pedra do Ouro;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia da Polvoeira;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia de Paredes da Vitoria;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia da Mina;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia de Vale Furado;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia de Vale Pardo;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia das Aguas Luxuosas;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia da Legua;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia da Falca;100123;Pataias e Martinganca;ALCOBACA;LEIRIA
-Praia da Areeira;101102;Nazare;NAZARE;LEIRIA
-Praia do Norte;101102;Nazare;NAZARE;LEIRIA
-Praia Nova;101102;Nazare;NAZARE;LEIRIA
-Praia da Nazare;101102;Nazare;NAZARE;LEIRIA
-Praia da Entrada do Porto;101101;Famalicao;NAZARE;LEIRIA
-Praia do Salgado;101101;Famalicao;NAZARE;LEIRIA
-Praia da Gralha;100112;Sao Martinho do Porto;ALCOBACA;LEIRIA
-Praia de Sao Martinho do Porto;100112;Sao Martinho do Porto;ALCOBACA;LEIRIA
-Praia de Salir do Porto;100619;Tornada e Salir do Porto;CALDAS DA RAINHA;LEIRIA
-Praia do Mar;100606;Foz do Arelho;CALDAS DA RAINHA;LEIRIA
-Praia do Bom Sucesso;101207;Vau;OBIDOS;LEIRIA
-Praia do Rei do Cortico;101207;Vau;OBIDOS;LEIRIA
-Praia da Estrela;101207;Vau;OBIDOS;LEIRIA
-Praia da Fincha Grande;101207;Vau;OBIDOS;LEIRIA
-Praia do Barroco da Adega;101207;Vau;OBIDOS;LEIRIA
-Praia de Covoes;101207;Vau;OBIDOS;LEIRIA
-Praia d' El Rei;101202;Amoreira;OBIDOS;LEIRIA
-Praia do Pico da Antena;101202;Amoreira;OBIDOS;LEIRIA
-Praia do Pico da Mota;101406;Ferrel;PENICHE;LEIRIA
-Praia de Point Fabril;101406;Ferrel;PENICHE;LEIRIA
-Praia da Almagreira;101406;Ferrel;PENICHE;LEIRIA
-Praia do Baleal (Norte);101406;Ferrel;PENICHE;LEIRIA
-Praia das Cebolas;101406;Ferrel;PENICHE;LEIRIA
-Praia do Baleal (Sul);101406;Ferrel;PENICHE;LEIRIA
-Praia do Campismo;101406;Ferrel;PENICHE;LEIRIA
-Praia da Cova da Alfarroba;101407;Peniche;PENICHE;LEIRIA
-Praia de Peniche de Cima;101407;Peniche;PENICHE;LEIRIA
-Praia da Gamboa;101407;Peniche;PENICHE;LEIRIA
-Praia do Quebrado;101407;Peniche;PENICHE;LEIRIA
-Praia do Portinho da Areia do Norte;101407;Peniche;PENICHE;LEIRIA
-Praia do Portinho da Areia Sul;101407;Peniche;PENICHE;LEIRIA
-Praia da Camaroa;101407;Peniche;PENICHE;LEIRIA
-Praia do Molhe Leste;101407;Peniche;PENICHE;LEIRIA
-Praia dos Supertubos;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia do Medao Grande;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia da Consolacao (Norte);101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia da Consolacao;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia das Rochas;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia de Sao Marcos;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia do Salgueiro;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia de Miras;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia do Alto de Santa Luzia;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia de Sao Bernardino;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia dos Frades;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia de Vale Pombas;101402;Atouguia da Baleia;PENICHE;LEIRIA
-Praia de Paimogo;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia do Canical;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia do Vale dos Frades;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia da Malhada;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia da Areia Branca;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia do Areal;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia da Peralta;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia do Porto das Barcas;110812;Lourinha e Atalaia;LOURINHA;LISBOA
-Praia do Zimbral;110810;Ribamar;LOURINHA;LISBOA
-Praia de Porto Dinheiro;110810;Ribamar;LOURINHA;LISBOA
-Praia de Valmitao;110810;Ribamar;LOURINHA;LISBOA
-Praia das Conchas;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia de Porto Novo;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia de Santa Rita (Norte);111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia de Santa Rita (Sul);111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia do Seixo;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia da Mexilhoeira;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia do Amanha;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia do Navio;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia do Mirante;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia do Pisao;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia da Fisica;111321;A dos Cunhados e Maceira;TORRES VEDRAS;LISBOA
-Praia do Centro;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia de Santa Helena;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia do Guincho;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia da Formosa;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia das Amoeiras;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia Azul;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia da Foz do Sizandro;111316;Silveira;TORRES VEDRAS;LISBOA
-Praia de Porto Chao;111314;Sao Pedro da Cadeira;TORRES VEDRAS;LISBOA
-Praia de Cambelas;111314;Sao Pedro da Cadeira;TORRES VEDRAS;LISBOA
-Praia do Baio;111314;Sao Pedro da Cadeira;TORRES VEDRAS;LISBOA
-Praia da Horta;111314;Sao Pedro da Cadeira;TORRES VEDRAS;LISBOA
-Praia das Furnas;111314;Sao Pedro da Cadeira;TORRES VEDRAS;LISBOA
-Praia das Pecas;111314;Sao Pedro da Cadeira;TORRES VEDRAS;LISBOA
-Praia do Porto Barril;110904;Encarnacao;MAFRA;LISBOA
-Praia das Escadinhas;110904;Encarnacao;MAFRA;LISBOA
-Praia da Calada;110904;Encarnacao;MAFRA;LISBOA
-Praia do Portinho Correia;110904;Encarnacao;MAFRA;LISBOA
-Praia de Sao Lourenco;110913;Santo Isidoro;MAFRA;LISBOA
-Praia dos Coxos;110913;Santo Isidoro;MAFRA;LISBOA
-Praia dos Coxos (Surf);110913;Santo Isidoro;MAFRA;LISBOA
-Praia do Banco do Cavalinho;110913;Santo Isidoro;MAFRA;LISBOA
-Praia da Pesqueira;110913;Santo Isidoro;MAFRA;LISBOA
-Praia do Penedo Mouro;110913;Santo Isidoro;MAFRA;LISBOA
-Praia de Ribeira d'Ilhas;110906;Ericeira;MAFRA;LISBOA
-Praia do Alibaba;110906;Ericeira;MAFRA;LISBOA
-Praia de Mil Regos;110906;Ericeira;MAFRA;LISBOA
-Praia da Orelheira;110906;Ericeira;MAFRA;LISBOA
-Praia da Empa;110906;Ericeira;MAFRA;LISBOA
-Praia dos Tombadoiros;110906;Ericeira;MAFRA;LISBOA
-Praia do Matadouro;110906;Ericeira;MAFRA;LISBOA
-Praia de Sao Sebastiao;110906;Ericeira;MAFRA;LISBOA
-Praia do Norte;110906;Ericeira;MAFRA;LISBOA
-Praia dos Pescadores;110906;Ericeira;MAFRA;LISBOA
-Praia do Sul;110906;Ericeira;MAFRA;LISBOA
-Praia do Muro da Galera;110902;Carvoeira;MAFRA;LISBOA
-Praia da Foz do Lizandro;110902;Carvoeira;MAFRA;LISBOA
-Praia de Sao Juliao;111127;Sao Joao das Lampas e Terrugem;SINTRA;LISBOA
-Praia da Vigia;111127;Sao Joao das Lampas e Terrugem;SINTRA;LISBOA
-Praia da Samarra;111127;Sao Joao das Lampas e Terrugem;SINTRA;LISBOA
-Praia do Giribeto;111127;Sao Joao das Lampas e Terrugem;SINTRA;LISBOA
-Praia do Magoito;111127;Sao Joao das Lampas e Terrugem;SINTRA;LISBOA
-Praia da Aguda;111127;Sao Joao das Lampas e Terrugem;SINTRA;LISBOA
-Praia das Azenhas do Mar;111105;Colares;SINTRA;LISBOA
-Praia das Macas;111105;Colares;SINTRA;LISBOA
-Praia Pequena do Rodizio;111105;Colares;SINTRA;LISBOA
-Praia Grande do Rodizio;111105;Colares;SINTRA;LISBOA
-Praia da Adraga;111105;Colares;SINTRA;LISBOA
-Praia do Cavalo;111105;Colares;SINTRA;LISBOA
-Praia do Caneiro;111105;Colares;SINTRA;LISBOA
-Praia da Ursa;111105;Colares;SINTRA;LISBOA
-Praia da Aroeira;111105;Colares;SINTRA;LISBOA
-Praia do Lourical;111105;Colares;SINTRA;LISBOA
-Praia de Assentiz;111105;Colares;SINTRA;LISBOA
-Praia do Porto do Touro;110501;Alcabideche;CASCAIS;LISBOA
-Praia da Grota;110501;Alcabideche;CASCAIS;LISBOA
-Praia do Abano;110501;Alcabideche;CASCAIS;LISBOA
-Praia Grande do Guincho;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Agua Doce;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Crismina;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Arriba;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia de Santa Marta;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Ribeira de Cascais;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Rainha;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia do Hotel Albatroz;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Conceicao;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Duquesa;110508;Cascais e Estoril;CASCAIS;LISBOA
-Piscina Oceanica Alberto Romano;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia das Moitas;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia do Tamariz;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia do Pescoco do Cavalo;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Poca;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Azarujinha;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia de Sao Pedro do Estoril;110508;Cascais e Estoril;CASCAIS;LISBOA
-Praia da Bafureira;110507;Carcavelos e Parede;CASCAIS;LISBOA
-Praia das Avencas;110507;Carcavelos e Parede;CASCAIS;LISBOA
-Praia da Parede;110507;Carcavelos e Parede;CASCAIS;LISBOA
-Praia de Carcavelos;110507;Carcavelos e Parede;CASCAIS;LISBOA
-Praia dos Gemeos;110507;Carcavelos e Parede;CASCAIS;LISBOA
-Praia do Moinho;110507;Carcavelos e Parede;CASCAIS;LISBOA
-Praia da Torre;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia da Laje;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia de Santo Amaro de Oeiras;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia das Fontainhas;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia de Paco de Arcos;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia Velha;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia da Giribita;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia de Caxias;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia de Sao Bruno;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia da Cruz Quebrada;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia do Dafundo;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA
-Praia de Alges;111012;Alges, Linda-a-Velha e Cruz Quebrada-Dafundo;OEIRAS;LISBOA
-Praia da Trafaria;150313;Caparica e Trafaria;ALMADA;SETUBAL
-Praia do Segundo Torrao;150313;Caparica e Trafaria;ALMADA;SETUBAL
-Praia da Cova do Vapor;150313;Caparica e Trafaria;ALMADA;SETUBAL
-Praia de Sao Joao da Caparica;150313;Caparica e Trafaria;ALMADA;SETUBAL
-Praia do Norte;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia de Santo Antonio da Caparica;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do C.D.S.;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do Tarquinio-Paraiso;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do Dragao Vermelho;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia Nova;150303;Costa da Caparica;ALMADA;SETUBAL
-Nova Praia;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Saude;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Cornelia;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Mata;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Riviera;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Rainha;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do Castelo;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Cabana do Pescador;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Princesa;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do Rei;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Morena;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Sereia;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do Infante;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Nova Vaga;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Bela Vista;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia do Dezanove;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Fonte da Telha;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia da Adica;150303;Costa da Caparica;ALMADA;SETUBAL
-Praia dos Medos de Albufeira;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia dos Olhos de Agua;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Galherao;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Boca Velha;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Lagoa de Albufeira (Mar);151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia de Alfarim;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Moinho de Baixo;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Tramagueira;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Rio da Prata;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Penedo;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia das Bicas;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Pipa;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Foz;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Rebenta Bois;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Seixalinho;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Areia do Mastro;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia dos Lagosteiros;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Cavalo;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Baleeira;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Inferno;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia de Cramesines;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia de Vale Covo;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia do Temporal;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Mijona;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia da Ribeira do Cavalo;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Prainha;151102;Sesimbra (Santiago);SESIMBRA;SETUBAL
-Praia do Ouro;151102;Sesimbra (Santiago);SESIMBRA;SETUBAL
-Praia da California;151102;Sesimbra (Santiago);SESIMBRA;SETUBAL
-Praia dos Penedos;151101;Sesimbra (Castelo);SESIMBRA;SETUBAL
-Praia de Alpertuche;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia dos Pilotos;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia do Portinho da Arrabida;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia do Creiro;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia do Monte Branco;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia da Anicha;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia dos Coelhos;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia de Galapinhos;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia de Galapos;151209;Azeitao (Sao Lourenco e Sao Simao);SETUBAL;SETUBAL
-Praia da Figueirinha;151210;Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL
-Praia do Outao;151210;Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL
-Praia da Rasca;151210;Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL
-Praia da Comenda;151210;Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL
-Praia de Albarquel;151210;Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL
-Praia de Troia (Rio);150505;Carvalhal;GRANDOLA;SETUBAL
-Praia de Troia (Mar);150505;Carvalhal;GRANDOLA;SETUBAL
-Praia de Troia-Bico das Lulas;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia da Questa;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia de Troia-Gale;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia do Golfe;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia do Campismo;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia Atlantica;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia da Malha da Costa;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia da Comporta;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia da Torre;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia dos Brejos;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia do Carvalhal;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia do Pego;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia da Raposa;150505;Carvalhal;GRANDOLA;SETUBAL
-Praia do Pinheirinho;150503;Melides;GRANDOLA;SETUBAL
-Praia da Gale-Fontainhas;150503;Melides;GRANDOLA;SETUBAL
-Praia da Aberta Nova;150503;Melides;GRANDOLA;SETUBAL
-Praia da Vigia;150503;Melides;GRANDOLA;SETUBAL
-Praia de Melides;150503;Melides;GRANDOLA;SETUBAL
-Praia da Sesmaria;150503;Melides;GRANDOLA;SETUBAL
-Praia da Costa de Santo Andre;150907;Santo Andre;SANTIAGO DO CACEM;SETUBAL
-Praia do Monte Velho;150907;Santo Andre;SANTIAGO DO CACEM;SETUBAL
-Praia das Areias Brancas;150907;Santo Andre;SANTIAGO DO CACEM;SETUBAL
-Praia da Fonte do Cortico;150907;Santo Andre;SANTIAGO DO CACEM;SETUBAL
-Praia da Sancha;151301;Sines;SINES;SETUBAL
-Praia do Areao;151301;Sines;SINES;SETUBAL
-Praia do Lago;151301;Sines;SINES;SETUBAL
-Praia da Guia;151301;Sines;SINES;SETUBAL
-Praia do Canto Mosqueiro;151301;Sines;SINES;SETUBAL
-Praia Vasco da Gama;151301;Sines;SINES;SETUBAL
-Praia de Sao Torpes;151301;Sines;SINES;SETUBAL
-Praia da Pelengana;151301;Sines;SINES;SETUBAL
-Praia de Morgavel;151301;Sines;SINES;SETUBAL
-Praia da Navalheira;151301;Sines;SINES;SETUBAL
-Praia de Vale Figueiros;151301;Sines;SINES;SETUBAL
-Praia da Oliveirinha;151302;Porto Covo;SINES;SETUBAL
-Praia da Foz;151302;Porto Covo;SINES;SETUBAL
-Praia dos Canudos;151302;Porto Covo;SINES;SETUBAL
-Praia do Burrinho;151302;Porto Covo;SINES;SETUBAL
-Praia da Samoqueira;151302;Porto Covo;SINES;SETUBAL
-Praia de Porto Covinho;151302;Porto Covo;SINES;SETUBAL
-Praia do Serro da Aguia;151302;Porto Covo;SINES;SETUBAL
-Praia do Salto;151302;Porto Covo;SINES;SETUBAL
-Praia da Cerca Nova;151302;Porto Covo;SINES;SETUBAL
-Praia Grande de Porto Covo;151302;Porto Covo;SINES;SETUBAL
-Praia do Espingardeiro;151302;Porto Covo;SINES;SETUBAL
-Praia do Banho;151302;Porto Covo;SINES;SETUBAL
-Praia da Gaivota;151302;Porto Covo;SINES;SETUBAL
-Praia Pequena;151302;Porto Covo;SINES;SETUBAL
-Praia dos Buizinhos;151302;Porto Covo;SINES;SETUBAL
-Praia da Baia de Porto Covo;151302;Porto Covo;SINES;SETUBAL
-Praia da Engardaceira;151302;Porto Covo;SINES;SETUBAL
-Praia do Seizal;151302;Porto Covo;SINES;SETUBAL
-Praia da Ilha do Pessegueiro;151302;Porto Covo;SINES;SETUBAL
-Praia do Queimado;151302;Porto Covo;SINES;SETUBAL
-Praia dos Aivados;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia da Cruz;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Saltinho;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia dos Nascedios;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Malhao (Centro);21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Malhao (Sul);21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia da Angra da Barreta;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia da Angra da Vaca;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Burdo;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia da Angra da Cerva;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Porto das Barcas;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Patacho;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Carreiro das Fazendas;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia do Farol;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia da Franquia;21111;Vila Nova de Milfontes;ODEMIRA;BEJA
-Praia das Furnas;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Angra do Cozinhadouro;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Angra do Navio de Trigo;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia do Cavalo;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia do Brejo Largo;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia dos Picos;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Angra do Travesso;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Angra das Melancias;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Foz dos Ouricos;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia de Nossa Senhora;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia de Almograve;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Poca do Buraco;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia dos Carricos;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia da Barca Grande;21117;Longueira/Almograve;ODEMIRA;BEJA
-Praia do Cao;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Laginha;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia do Cavaleiro;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia do Creleizao;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Lavagueira;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia do Tonel;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Baia da Arquinha;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Pedra da Bica;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia de Nossa Senhora;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Entrada da Barca;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia dos Carreirinhos;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Zambujeira do Mar;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia dos Alteirinhos;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Meia Laranja;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia das Bernosas;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia do Alvoriao;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia do Carvalhal;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia do Machado;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Amalia;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Azenha do Mar;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia da Baiona;21121;Sao Teotonio;ODEMIRA;BEJA
-Praia de Odeceixe (Mar);80303;Odeceixe;ALJEZUR;FARO
-Praia das Adegas;80303;Odeceixe;ALJEZUR;FARO
-Praia do Guincho;80303;Odeceixe;ALJEZUR;FARO
-Praia da Quebrada;80304;Rogil;ALJEZUR;FARO
-Praia da Esteveira;80304;Rogil;ALJEZUR;FARO
-Praia da Samouqueira;80304;Rogil;ALJEZUR;FARO
-Praia da Barradinha;80304;Rogil;ALJEZUR;FARO
-Praia do Vale dos Homens;80304;Rogil;ALJEZUR;FARO
-Praia da Carreagem;80304;Rogil;ALJEZUR;FARO
-Praia da Amoreira (Mar);80301;Aljezur;ALJEZUR;FARO
-Praia do Monte Clerigo;80301;Aljezur;ALJEZUR;FARO
-Praia da Fateixa;80301;Aljezur;ALJEZUR;FARO
-Praia da Pipa;80301;Aljezur;ALJEZUR;FARO
-Praia do Medo da Fonte Santa;80301;Aljezur;ALJEZUR;FARO
-Praia da Arrifana;80301;Aljezur;ALJEZUR;FARO
-Praia da Pedra Agulha;80301;Aljezur;ALJEZUR;FARO
-Praia do Canal;80301;Aljezur;ALJEZUR;FARO
-Praia do Penedo;80301;Aljezur;ALJEZUR;FARO
-Praia de Vale Figueiras;80302;Bordeira;ALJEZUR;FARO
-Praia da Bordeira;80302;Bordeira;ALJEZUR;FARO
-Praia da Zimbreirinha;80302;Bordeira;ALJEZUR;FARO
-Praia do Portinho do Forno;80302;Bordeira;ALJEZUR;FARO
-Praia do Amado;80302;Bordeira;ALJEZUR;FARO
-Prainha;80302;Bordeira;ALJEZUR;FARO
-Praia da Murracao;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia da Manteiga;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia do Mirouco;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia dos Mouranitos;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia da Barriga;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia da Cordoama;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia do Castelejo;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia da Aguia;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia da Ponta Ruiva;81504;Sagres;VILA DO BISPO;FARO
-Praia do Telheiro;81504;Sagres;VILA DO BISPO;FARO
-Praia do Beliche;81504;Sagres;VILA DO BISPO;FARO
-Praia do Tonel;81504;Sagres;VILA DO BISPO;FARO
-Prainha das Pocas;81504;Sagres;VILA DO BISPO;FARO
-Praia da Mareta;81504;Sagres;VILA DO BISPO;FARO
-Praia da Baleeira;81504;Sagres;VILA DO BISPO;FARO
-Praia do Martinhal;81504;Sagres;VILA DO BISPO;FARO
-Praia dos Rebolinhos;81504;Sagres;VILA DO BISPO;FARO
-Praia do Barranco;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia do Joao Vaz;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia da Ingrina;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia do Zavial;81506;Vila do Bispo e Raposeira;VILA DO BISPO;FARO
-Praia das Furnas;81502;Budens;VILA DO BISPO;FARO
-Praia da Foia do Carro;81502;Budens;VILA DO BISPO;FARO
-Praia da Figueira;81502;Budens;VILA DO BISPO;FARO
-Praia da Santa;81502;Budens;VILA DO BISPO;FARO
-Praia da Salema;81502;Budens;VILA DO BISPO;FARO
-Praia da Boca do Rio;81502;Budens;VILA DO BISPO;FARO
-Praia de Almadena;81502;Budens;VILA DO BISPO;FARO
-Praia das Cabanas Velhas;81502;Budens;VILA DO BISPO;FARO
-Praia dos Rebolos;81502;Budens;VILA DO BISPO;FARO
-Praia do Burgau;81502;Budens;VILA DO BISPO;FARO
-Praia da Luz;80703;Luz;LAGOS;FARO
-Praia de Porto de Mos;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Canavial;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Barranco do Martinho;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia da Balanca;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia dos Pinheiros;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia da Boneca;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Camilo;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia Dona Ana;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Pinhao;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Pinhao (Este);80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia dos Estudantes;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia da Batata;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Cais da Solaria;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia de Sao Roque;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Meia Praia;80708;Sao Goncalo de Lagos;LAGOS;FARO
-Praia do Vale da Lama;80704;Odiaxere;LAGOS;FARO
-Praia do Alvor (Poente);81101;Alvor;PORTIMAO;FARO
-Praia do Alvor (Nascente);81101;Alvor;PORTIMAO;FARO
-Prainha;81101;Alvor;PORTIMAO;FARO
-Praia do Valentim de Carvalho;81101;Alvor;PORTIMAO;FARO
-Praia do Submarino;81101;Alvor;PORTIMAO;FARO
-Praia de Joao de Arens;81101;Alvor;PORTIMAO;FARO
-Praia de Boiao;81101;Alvor;PORTIMAO;FARO
-Praia do Barranco das Canas;81101;Alvor;PORTIMAO;FARO
-Praia do Vau;81103;Portimao;PORTIMAO;FARO
-Praia dos Careanos;81103;Portimao;PORTIMAO;FARO
-Praia dos Tres Castelos;81103;Portimao;PORTIMAO;FARO
-Praia da Rocha;81103;Portimao;PORTIMAO;FARO
-Praia da Marina de Portimao;81103;Portimao;PORTIMAO;FARO
-Praia da Angrinha;80602;Ferragudo;LAGOA;FARO
-Praia Grande;80602;Ferragudo;LAGOA;FARO
-Praia Grande (Sul);80602;Ferragudo;LAGOA;FARO
-Praia da Infanta;80602;Ferragudo;LAGOA;FARO
-Praia do Molhe;80602;Ferragudo;LAGOA;FARO
-Praia do Pintadinho;80602;Ferragudo;LAGOA;FARO
-Praia do Torrado;80602;Ferragudo;LAGOA;FARO
-Praia dos Caneiros;80602;Ferragudo;LAGOA;FARO
-Praia da Afurada;80602;Ferragudo;LAGOA;FARO
-Praia do Mato;80602;Ferragudo;LAGOA;FARO
-Praia da Grilheria;80607;Estombar e Parchal;LAGOA;FARO
-Praia do Vale da Lapa;80607;Estombar e Parchal;LAGOA;FARO
-Praia da Cama da Vaca;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Padre Vicente;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Salgadeira;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Vale Currais;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Vale Currais (Este);80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Paraiso;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia de Carvoeiro;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Vale Covo;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Vale Centianes;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Vale Espinhaco;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Carvalho;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia de Benagil;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Corredoura;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Cao Raivoso;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Mesquita (Oeste);80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Mesquita;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Marinha;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Buraco;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Pau;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Malhada do Baraco;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Barranquinho;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia do Salgueiro;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia da Estaquinha;80608;Lagoa e Carvoeiro;LAGOA;FARO
-Praia de Albandeira;80604;Porches;LAGOA;FARO
-Praia das Fontainhas;80604;Porches;LAGOA;FARO
-Praia da Morena;80604;Porches;LAGOA;FARO
-Praia do Pontal;80604;Porches;LAGOA;FARO
-Praia do Barranco;80604;Porches;LAGOA;FARO
-Praia do Barranco (Este);80604;Porches;LAGOA;FARO
-Praia Nova;80604;Porches;LAGOA;FARO
-Praia da Senhora da Rocha;80604;Porches;LAGOA;FARO
-Praia da Ponta da Adega (Oeste);80604;Porches;LAGOA;FARO
-Praia da Ponta da Adega (Este);80604;Porches;LAGOA;FARO
-Praia das Escaleiras;80604;Porches;LAGOA;FARO
-Praia dos Cavalos;80604;Porches;LAGOA;FARO
-Praia da Cova Redonda;80604;Porches;LAGOA;FARO
-Praia dos Tremocos (Oeste);80604;Porches;LAGOA;FARO
-Praia dos Tremocos;80604;Porches;LAGOA;FARO
-Praia dos Beijinhos;80604;Porches;LAGOA;FARO
-Praia dos Beijinhos (Este);80604;Porches;LAGOA;FARO
-Praia do Vale do Olival;80604;Porches;LAGOA;FARO
-Praia de Armacao de Pera;81303;Armacao de Pera;SILVES;FARO
-Praia Grande de Pera (Poente);81309;Alcantarilha e Pera;SILVES;FARO
-Praia Grande de Pera (Nascente);81309;Alcantarilha e Pera;SILVES;FARO
-Praia dos Salgados;80102;Guia;ALBUFEIRA;FARO
-Praia da Gale (Oeste);80102;Guia;ALBUFEIRA;FARO
-Praia da Gale (Leste);80102;Guia;ALBUFEIRA;FARO
-Praia de Manuel Lourenco;80102;Guia;ALBUFEIRA;FARO
-Praia da Balbina;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Evaristo;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Castelo;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Mare das Porcas;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Coelha;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Ponta Grande;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Ponta Pequena;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Ninho de Andorinha;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia de Sao Rafael;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Vigia;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia de Arrifes;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Arrifao;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Risco;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Baleeira;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Peneco;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia dos Pescadores;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do INATEL;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia dos Alemaes;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia dos Aveiros;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Oura;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Oura (Leste);80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia de Santa Eulalia;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Balaia (Leste);80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia Maria Luisa;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia dos Olhos de Agua;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia das Belharucas;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Falesia (Acoteias);80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Falesia (Alfamar);80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia do Poco Velho;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Rocha Baixinha (Poente);80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Rocha Baixinha;80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Rocha Baixinha (Nascente);80106;Albufeira e Olhos de agua;ALBUFEIRA;FARO
-Praia da Rocha Baixinha (Nascente-Loule);80805;Quarteira;LOULE;FARO
-Praia de Vilamoura;80805;Quarteira;LOULE;FARO
-Praia de Quarteira;80805;Quarteira;LOULE;FARO
-Praia do Forte Novo;80805;Quarteira;LOULE;FARO
-Praia do Almargem;80805;Quarteira;LOULE;FARO
-Praia de Loule Velho;80805;Quarteira;LOULE;FARO
-Praia do Trafal;80805;Quarteira;LOULE;FARO
-Praia de Vale do Lobo;80801;Almancil;LOULE;FARO
-Praia do Garrao (Poente);80801;Almancil;LOULE;FARO
-Praia do Garrao (Nascente);80801;Almancil;LOULE;FARO
-Praia do Ancao;80801;Almancil;LOULE;FARO
-Praia da Quinta do Lago;80801;Almancil;LOULE;FARO
-Praia de Faro (Mar);80506;Montenegro;FARO;FARO
-Praia de Faro (Este);80506;Montenegro;FARO;FARO
-Praia da Barrinha;80508;Faro (Se e Sao Pedro);FARO;FARO
-Praia da Barreta (Mar);80508;Faro (Se e Sao Pedro);FARO;FARO
-Praia da Ilha do Farol (Mar);80508;Faro (Se e Sao Pedro);FARO;FARO
-Praia da Culatra (Mar);80508;Faro (Se e Sao Pedro);FARO;FARO
-Praia da Armona (Mar);81005;Quelfes;OLHAO;FARO
-Praia da Fuseta (Mar);81006;Moncarapacho e Fuseta;OLHAO;FARO
-Praia da Barra da Fuseta;81006;Moncarapacho e Fuseta;OLHAO;FARO
-Praia do Homem Nu;81411;Luz de Tavira e Santo Estevao;TAVIRA;FARO
-Praia do Barril;81408;Santa Luzia;TAVIRA;FARO
-Praia da Terra Estreita;81408;Santa Luzia;TAVIRA;FARO
-Praia da Ilha de Tavira (Mar);81412;Tavira (Santa Maria e Santiago);TAVIRA;FARO
-Praia do Forte da Barra;81412;Tavira (Santa Maria e Santiago);TAVIRA;FARO
-Praia do Golden;81410;Conceicao e Cabanas de Tavira;TAVIRA;FARO
-Praia de Cabanas (Mar);81410;Conceicao e Cabanas de Tavira;TAVIRA;FARO
-Praia do Lacem (Mar);81410;Conceicao e Cabanas de Tavira;TAVIRA;FARO
-Praia do Sitio da Fabrica (Mar);81601;Vila Nova de Cacela;VILA REAL DE SANTO ANTONIO;FARO
-Praia de Cacela Velha;81601;Vila Nova de Cacela;VILA REAL DE SANTO ANTONIO;FARO
-Praia da Manta Rota;81601;Vila Nova de Cacela;VILA REAL DE SANTO ANTONIO;FARO
-Praia da Lota;81601;Vila Nova de Cacela;VILA REAL DE SANTO ANTONIO;FARO
-Praia da Alagoa;80404;Altura;CASTRO MARIM;FARO
-Praia Verde;80402;Castro Marim;CASTRO MARIM;FARO
-Praia do Cabeco;80402;Castro Marim;CASTRO MARIM;FARO
-Praia de Adao e Eva;81603;Monte Gordo;VILA REAL DE SANTO ANTONIO;FARO
-Praia de Monte Gordo;81603;Monte Gordo;VILA REAL DE SANTO ANTONIO;FARO
-Praia de Santo Antonio;81602;Vila Real de Santo Antonio;VILA REAL DE SANTO ANTONIO;FARO
-Praia da Ponta da Areia;81602;Vila Real de Santo Antonio;VILA REAL DE SANTO ANTONIO;FARO
+count(Praia);Location_ID;Freguesias
+1;111012;Alges, Linda-a-Velha e Cruz Quebrada-Dafundo
+2;30617;Belinho e Mar
+4;11204;Torreira
+1;160217;Vila Praia de Ancora
+2;160201;Ancora
+1;80704;Odiaxere
+2;11006;Gafanha da Nazare
+15;80708;Sao Goncalo de Lagos
+2;131616;Mindelo
+2;11503;Esmoriz
+6;150503;Melides
+5;151210;Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca)
+1;60508;Marinha das Ondas
+6;111314;Sao Pedro da Cadeira
+5;11509;Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa
+4;150907;Santo Andre
+6;130812;Matosinhos e Leca da Palmeira
+23;80608;Lagoa e Carvoeiro
+3;11005;Gafanha da Encarnacao
+3;60804;Praia de Mira
+5;100909;Coimbrao
+4;131307;Estela
+6;111127;Sao Joao das Lampas e Terrugem
+14;21117;Longueira/Almograve
+1;81303;Armacao de Pera
+3;80303;Odeceixe
+3;11502;Cortegaca
+11;151301;Sines
+1;101505;Carrico
+2;131602;Arvore
+1;60522;Lavos
+12;131315;Povoa de Varzim, Beiriz e Argivai
+15;150505;Carvalhal
+4;80508;Faro (Se e Sao Pedro)
+3;110810;Ribamar
+3;131613;Labruge
+24;150303;Costa da Caparica
+1;80404;Altura
+10;81502;Budens
+11;111105;Colares
+2;101202;Amoreira
+4;110904;Encarnacao
+10;80602;Ferragudo
+15;130813;Perafita, Lavra e Santa Cruz do Bispo
+1;160905;Areosa
+8;131726;Gulpilhares e Valadares
+10;100123;Pataias e Martinganca
+3;131709;Madalena
+6;110913;Santo Isidoro
+8;81101;Alvor
+2;110902;Carvoeira
+1;11504;Maceda
+6;131717;Sao Felix da Marinha
+12;101402;Atouguia da Baleia
+1;80703;Luz
+3;81410;Conceicao e Cabanas de Tavira
+5;80801;Almancil
+1;131604;Azurara
+7;101001;Marinha Grande
+8;30616;Apulia e Fao
+7;131701;Arcozelo
+15;21111;Vila Nova de Milfontes
+2;81006;Moncarapacho e Fuseta
+1;10704;Paramos
+2;10511;Sao Jacinto
+2;160910;Castelo do Neiva
+8;131704;Canidelo
+2;80607;Estombar e Parchal
+3;110501;Alcabideche
+5;131314;Agucadoura e Navais
+10;131216;Aldoar, Foz do Douro e Nevogilde
+2;160948;Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela
+2;10705;Silvalde
+17;110508;Cascais e Estoril
+2;101002;Vieira de Leiria
+3;160224;Moledo e Cristelo
+11;110906;Ericeira
+5;60514;Sao Pedro
+2;101101;Famalicao
+1;81005;Quelfes
+26;151101;Sesimbra (Castelo)
+1;100619;Tornada e Salir do Porto
+9;151209;Azeitao (Sao Lourenco e Sao Simao)
+6;80302;Bordeira
+2;60524;Quiaios
+4;81601;Vila Nova de Cacela
+9;81504;Sagres
+2;81309;Alcantarilha e Pera
+1;81411;Luz de Tavira e Santo Estevao
+4;101102;Nazare
+6;131627;Vila Cha
+7;160908;Carreco
+6;110507;Carcavelos e Parede
+4;150313;Caparica e Trafaria
+7;101406;Ferrel
+32;80106;Albufeira e Olhos de agua
+18;80604;Porches
+3;10702;Espinho
+9;131313;Aver-o-Mar, Amorim e Terroso
+3;60214;Tocha
+2;11007;Gafanha do Carmo
+7;11804;Gafanha da Boa Hora
+8;101407;Peniche
+11;111014;Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias
+9;80301;Aljezur
+4;80102;Guia
+2;80402;Castro Marim
+11;111321;A dos Cunhados e Maceira
+2;160911;Darque
+12;81506;Vila do Bispo e Raposeira
+6;80304;Rogil
+5;81103;Portimao
+1;30601;Antas
+6;101207;Vau
+11;60520;Buarcos e Sao Juliao
+2;100112;Sao Martinho do Porto
+1;100606;Foz do Arelho
+20;151302;Porto Covo
+1;160904;Anha
+3;151102;Sesimbra (Santiago)
+21;21121;Sao Teotonio
+2;81603;Monte Gordo
+1;60515;Bom Sucesso
+2;81408;Santa Luzia
+2;81412;Tavira (Santa Maria e Santiago)
+15;131628;Vila do Conde
+2;81602;Vila Real de Santo Antonio
+6;30618;Esposende, Marinhas e Gandra
+8;110812;Lourinha e Atalaia
+7;111316;Silveira
+7;80805;Quarteira
+2;80506;Montenegro
+2;160940;Chafe
+4;160901;Afife

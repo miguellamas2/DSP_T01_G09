@@ -1,368 +1,293 @@
-Estacao;Dicofre;Freguesia;Concelho;Distrito;CP_Alfa Pendular;CP_Intercidades;CP_Regional;CP_Urbanos de Coimbra;CP_Urbanos de Lisboa;CP_Urbanos do Porto;Fertagus
-Abrantes;140124;Uniao das freguesias de Sao Miguel do Rio Torto e Rossio ao Sul do Tejo;ABRANTES;SANTAREM;null;1;1;null;null;null;null
-Ademia;60341;Uniao das freguesias de Trouxemil e Torre de Vilela;COIMBRA;COIMBRA;null;null;1;null;null;null;null
-Afife;160901;Afife;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Agualva-Cacem;111122;Uniao das freguesias de Agualva e Mira-Sintra;SINTRA;LISBOA;null;null;1;null;1;null;null
-Aguas Santas / Palmilheira;130601;Aguas Santas;MAIA;PORTO;null;null;null;null;null;1;null
-Aguda;131701;Arcozelo;VILA NOVA DE GAIA;PORTO;null;null;null;null;null;1;null
-Aguim;10318;Uniao das freguesias de Tamengos, Aguim e Ois do Bairro;ANADIA;AVEIRO;null;null;1;null;null;null;null
-Albergaria dos Doze;101519;Uniao das freguesias de Santiago e Sao Simao de Litem e Albergaria dos Doze;POMBAL;LEIRIA;null;null;1;null;null;null;null
-Albufeira-Ferreiras;80104;Ferreiras;ALBUFEIRA;FARO;1;1;1;null;null;null;null
-Alcacovas;70525;Uniao das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe;EVORA;EVORA;null;1;null;null;null;null;null
-Alcaide;50401;Alcaide;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Alcains;50201;Alcains;CASTELO BRANCO;CASTELO BRANCO;null;null;1;null;null;null;null
-Alcantara-Mar;110660;Alcantara;LISBOA;LISBOA;null;null;null;null;1;null;null
-Alcantara-Terra;110660;Alcantara;LISBOA;LISBOA;null;null;null;null;1;null;null
-Alcaria;50402;Alcaria;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Aldeia;90207;Castelo Bom;ALMEIDA;GUARDA;null;null;1;null;null;null;null
-Alegria;40308;Linhares;CARRAZEDA DE ANSIAES;BRAGANCA;null;null;1;null;null;null;null
-Alfarelos;61506;Granja do Ulmeiro;SOURE;COIMBRA;null;1;1;1;null;null;null
-Alferrarede;140120;Uniao das freguesias de Abrantes (Sao Vicente e Sao Joao) e Alferrarede;ABRANTES;SANTAREM;null;null;1;null;null;null;null
-Alges;111012;Uniao das freguesias de Alges, Linda-a-Velha e Cruz Quebrada-Dafundo;OEIRAS;LISBOA;null;null;null;null;1;null;null
-Algoz;81310;Uniao das freguesias de Algoz e Tunes;SILVES;FARO;null;null;1;null;null;null;null
-Algueirao;111102;Algueirao-Mem Martins;SINTRA;LISBOA;null;null;null;null;1;null;null
-Alhandra;111412;Uniao das freguesias de Alhandra, Sao Joao dos Montes e Calhandriz;VILA FRANCA DE XIRA;LISBOA;null;null;null;null;1;null;null
-Alhos Vedros;150601;Alhos Vedros;MOITA;SETUBAL;null;null;null;null;1;null;null
-Almourol;142002;Praia do Ribatejo;VILA NOVA DA BARQUINHA;SANTAREM;null;null;1;null;null;null;null
-Alpedrinha;50406;Alpedrinha;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Alvaraes;160902;Alvaraes;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Alvega-Ortiga;141307;Ortiga;MACAO;SANTAREM;null;null;1;null;null;null;null
-Alverca;111413;Uniao das freguesias de Alverca do Ribatejo e Sobralinho;VILA FRANCA DE XIRA;LISBOA;null;null;1;null;1;null;null
-Alvito;20301;Alvito;ALVITO;BEJA;null;1;1;null;null;null;null
-Amadora;111516;Mina de Agua;AMADORA;LISBOA;null;null;1;null;1;null;null
-Ameal;60340;Uniao das freguesias de Taveiro, Ameal e Arzila;COIMBRA;COIMBRA;null;null;1;1;null;null;null
-Ancora-Praia;160217;Vila Praia de Ancora;CAMINHA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Aregos;130225;Uniao das freguesias de Santa Cruz do Douro e Sao Tome de Covelas;BAIAO;PORTO;null;null;1;null;null;null;null
-Areia-Darque;160911;Darque;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Arentim;30363;Uniao das freguesias de Arentim e Cunha;BRAGA;BRAGA;null;null;null;null;null;1;null
-Areosa;160905;Areosa;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Arronches;120201;Assuncao;ARRONCHES;PORTALEGRE;null;null;1;null;null;null;null
-Assumar;121101;Assumar;MONFORTE;PORTALEGRE;null;null;1;null;null;null;null
-Avanca;10801;Avanca;ESTARREJA;AVEIRO;null;null;null;null;null;1;null
-Aveiro;10517;Uniao das freguesias de Gloria e Vera Cruz;AVEIRO;AVEIRO;1;1;1;null;null;1;null
-Aveleda;30367;Uniao das freguesias de Celeiros, Aveleda e Vimieiro;BRAGA;BRAGA;null;null;null;null;null;1;null
-Azambuja;110304;Azambuja;AZAMBUJA;LISBOA;null;null;1;null;1;null;null
-Baixa da Banheira;150607;Uniao das freguesias de Baixa da Banheira e Vale da Amoreira;MOITA;SETUBAL;null;null;null;null;1;null;null
-Baracal;90302;Baracal;CELORICO DA BEIRA;GUARDA;null;null;1;null;null;null;null
-Barca da Amieira-Envendos;141305;Envendos;MACAO;SANTAREM;null;null;1;null;null;null;null
-Barcelos;30209;Arcozelo;BARCELOS;BRAGA;null;1;1;null;null;null;null
-Barqueiros;170401;Barqueiros;MESAO FRIO;VILA REAL;null;null;1;null;null;null;null
-Barquinha;142006;Vila Nova da Barquinha;VILA NOVA DA BARQUINHA;SANTAREM;null;null;1;null;null;null;null
-Barragem de Belver;141307;Ortiga;MACAO;SANTAREM;null;null;1;null;null;null;null
-Barreiro;150410;Uniao das freguesias de Barreiro e Lavradio;BARREIRO;SETUBAL;null;null;null;null;1;null;null
-Barreiro-A;150410;Uniao das freguesias de Barreiro e Lavradio;BARREIRO;SETUBAL;null;null;null;null;1;null;null
-Barrimau;31260;Uniao das freguesias de Vila Nova de Famalicao e Calendario;VILA NOVA DE FAMALICAO;BRAGA;null;null;null;null;null;1;null
-Barroselas;160941;Uniao das freguesias de Barroselas e Carvoeiro;VIANA DO CASTELO;VIANA DO CASTELO;null;1;1;null;null;null;null
-Beja;20520;Uniao das freguesias de Beja (Salvador e Santa Maria da Feira);BEJA;BEJA;null;1;null;null;null;null;null
-Belem;110658;Belem;LISBOA;LISBOA;null;null;null;null;1;null;null
-Belver-Gaviao;20520;Uniao das freguesias de Beja (Salvador e Santa Maria da Feira);BEJA;BEJA;null;null;1;null;null;null;null
-Bemposta;140123;Uniao das freguesias de Sao Facundo e Vale das Mos;ABRANTES;SANTAREM;null;null;1;null;null;null;null
-Bencanta;60338;Uniao das freguesias de Sao Martinho do Bispo e Ribeira de Frades;COIMBRA;COIMBRA;null;null;1;1;null;null;null
-Benfica;110608;Benfica;LISBOA;LISBOA;null;null;null;null;1;null;null
-Benquerencas;50203;Benquerencas;CASTELO BRANCO;CASTELO BRANCO;null;null;1;null;null;null;null
-Bobadela;110728;Uniao das freguesias de Santa Iria de Azoia, Sao Joao da Talha e Bobadela;LOURES;LISBOA;null;null;null;null;1;null;null
-Boliqueime;80804;Boliqueime;LOULE;FARO;null;null;1;null;null;null;null
-Bombarral;100506;Uniao das freguesias do Bombarral e Vale Covo;BOMBARRAL;LEIRIA;null;null;1;null;null;null;null
-Braco de Prata;110621;Marvila;LISBOA;LISBOA;null;null;null;null;1;null;null
-Braga;30364;Uniao das freguesias de Braga (Maximinos, Se e Cividade);BRAGA;BRAGA;1;1;null;null;null;1;null
-Bustelo;131103;Bustelo;PENAFIEL;PORTO;null;null;null;null;null;1;null
-Cabeda;131501;Alfena;VALONGO;PORTO;null;null;null;null;null;1;null
-Cacela;81601;Vila Nova de Cacela;VILA REAL DE SANTO ANTONIO;FARO;null;null;1;null;null;null;null
-Cacia;10502;Cacia;AVEIRO;AVEIRO;null;null;null;null;null;1;null
-Caide;130504;Caide de Rei;LOUSADA;PORTO;null;null;1;null;null;1;null
-Cais do Sodre;110661;Misericordia;LISBOA;LISBOA;null;null;null;null;1;null;null
-Caldas da Rainha;100617;Uniao das freguesias de Caldas da Rainha - Nossa Senhora do Populo, Coto e Sao Gregorio;CALDAS DA RAINHA;LEIRIA;null;null;1;null;null;null;null
-Caldas de Moledo;170802;Fontelas;PESO DA REGUA;VILA REAL;null;null;1;null;null;null;null
-Caminha;160222;Uniao das freguesias de Caminha (Matriz) e Vilarelho;CAMINHA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Campolide;110610;Campolide;LISBOA;LISBOA;null;null;null;null;1;null;1
-Canas-Felgueira;180901;Canas de Senhorim;NELAS;VISEU;null;null;1;null;null;null;null
-Canelas;10809;Uniao das freguesias de Canelas e Fermela;ESTARREJA;AVEIRO;null;null;null;null;null;1;null
-Canicos;31204;Bairro;VILA NOVA DE FAMALICAO;BRAGA;null;null;null;null;null;1;null
-Carapecos;30218;Carapecos;BARCELOS;BRAGA;null;null;1;null;null;null;null
-Carcavelos;110507;Uniao das freguesias de Carcavelos e Parede;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Carrascal-Delongo;141809;Paialvo;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Carreco;160908;Carreco;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Carregado;111414;Uniao das freguesias de Castanheira do Ribatejo e Cachoeiras;VILA FRANCA DE XIRA;LISBOA;null;null;null;null;1;null;null
-Carregal do Sal;180208;Carregal do Sal;CARREGAL DO SAL;VISEU;null;1;1;null;null;null;null
-Carreira;30295;Uniao das freguesias de Carreira e Fonte Coberta;BARCELOS;BRAGA;null;null;1;null;null;null;null
-Carvalha;161016;Uniao das freguesias de Campos e Vila Mea;VILA NOVA DE CERVEIRA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Carvalheira-Maceda;11504;Maceda;OVAR;AVEIRO;null;null;null;null;null;1;null
-Carvalhos de Figueiredo;141819;Uniao das freguesias de Madalena e Beselga;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Casa Branca;70605;Santiago do Escoural;MONTEMOR-O-NOVO;EVORA;null;1;null;null;null;null;null
-Casais;60338;Uniao das freguesias de Sao Martinho do Bispo e Ribeira de Frades;COIMBRA;COIMBRA;null;null;1;1;null;null;null
-Cascais;110508;Uniao das freguesias de Cascais e Estoril;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Castanheira do Ribatejo;111414;Uniao das freguesias de Castanheira do Ribatejo e Cachoeiras;VILA FRANCA DE XIRA;LISBOA;null;null;null;null;1;null;null
-Castelejo;181406;Sao Joao de Areias;SANTA COMBA DAO;VISEU;null;null;1;null;null;null;null
-Castelo Branco;50205;Castelo Branco;CASTELO BRANCO;CASTELO BRANCO;null;1;1;null;null;null;null
-Castelo Novo;50413;Castelo Novo;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Caxarias;142104;Caxarias;OUREM;SANTAREM;null;1;1;null;null;null;null
-Caxias;111014;Uniao das freguesias de Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA;null;null;null;null;1;null;null
-Celorico da Beira;90306;Forno Telheiro;CELORICO DA BEIRA;GUARDA;null;1;1;null;null;null;null
-Cerdeira;91113;Cerdeira;SABUGAL;GUARDA;null;null;1;null;null;null;null
-Cete;131008;Cete;PAREDES;PORTO;null;null;null;null;null;1;null
-Chanca;120102;Chancelaria;ALTER DO CHAO;PORTALEGRE;null;null;1;null;null;null;null
-Coimbra;61011;Tentugal;MONTEMOR-O-VELHO;COIMBRA;null;null;1;1;null;null;null
-Coimbra-B;60337;Uniao das freguesias de Sao Martinho de Arvore e Lamarosa;COIMBRA;COIMBRA;1;1;1;1;null;null;null
-Coimbroes;131704;Canidelo;VILA NOVA DE GAIA;PORTO;null;null;null;null;null;1;null
-Coina;151007;Uniao das freguesias do Seixal, Arrentela e Aldeia de Paio Pires;SEIXAL;SETUBAL;null;null;null;null;null;null;1
-Contumil;131203;Campanha;PORTO;PORTO;null;null;null;null;null;1;null
-Corroios;151005;Corroios;SEIXAL;SETUBAL;null;null;null;null;null;null;1
-Cortegaca;11502;Cortegaca;OVAR;AVEIRO;null;null;null;null;null;1;null
-Couto de Cambeses;30216;Cambeses;BARCELOS;BRAGA;null;null;null;null;null;1;null
-Covas;30871;Urgezes;GUIMARAES;BRAGA;null;null;null;null;null;1;null
-Covelinhas;170813;Uniao das freguesias de Galafura e Covelinhas;PESO DA REGUA;VILA REAL;null;null;1;null;null;null;null
-Covilha;50335;Uniao das freguesias de Covilha e Canhoso;COVILHA;CASTELO BRANCO;null;1;1;null;null;null;null
-Crato;120607;Uniao das freguesias de Crato e Martires, Flor da Rosa e Vale do Peso;CRATO;PORTALEGRE;null;null;1;null;null;null;null
-Cruz Quebrada;111012;Uniao das freguesias de Alges, Linda-a-Velha e Cruz Quebrada-Dafundo;OEIRAS;LISBOA;null;null;null;null;null;null;null
-Cuba;20701;Cuba;CUBA;BEJA;null;1;1;null;null;null;null
-Cuca;30831;Moreira de Conegos;GUIMARAES;BRAGA;null;null;null;null;null;1;null
-Curia;10318;Uniao das freguesias de Tamengos, Aguim e Ois do Bairro;ANADIA;AVEIRO;null;null;1;null;null;null;null
-Curvaceiras;141809;Paialvo;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Darque;160911;Darque;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Donas;50434;Uniao das freguesias de Fundao, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Durraes;30298;Uniao das freguesias de Durraes e Tregosa;BARCELOS;BRAGA;null;null;1;null;null;null;null
-Elvas;120713;Caia, Sao Pedro e Alcacova;ELVAS;PORTALEGRE;null;null;1;null;null;null;null
-Entrecampos;110657;Avenidas Novas;LISBOA;LISBOA;1;1;1;null;1;null;1
-Entroncamento;141002;Nossa Senhora de Fatima;ENTRONCAMENTO;SANTAREM;1;1;1;null;null;null;null
-Ermesinde;131503;Ermesinde;VALONGO;PORTO;null;null;1;null;null;1;null
-Ermida;130215;Santa Marinha do Zezere;BAIAO;PORTO;null;null;1;null;null;null;null
-Ermidas Sado;150904;Ermidas-Sado;SANTIAGO DO CACEM;SETUBAL;1;1;null;null;null;null;null
-Esmeriz;31254;Uniao das freguesias de Esmeriz e Cabecudos;VILA NOVA DE FAMALICAO;BRAGA;null;null;null;null;null;1;null
-Esmoriz;11503;Esmoriz;OVAR;AVEIRO;null;null;1;null;null;1;null
-Espadanal da Azambuja;110307;Vila Nova da Rainha;AZAMBUJA;LISBOA;null;null;null;null;1;null;null
-Espadaneira;60338;Uniao das freguesias de Sao Martinho do Bispo e Ribeira de Frades;COIMBRA;COIMBRA;null;null;1;1;null;null;null
-Espinho;10702;Espinho;ESPINHO;AVEIRO;1;1;1;null;null;1;null
-Esqueiro;160211;Lanhelas;CAMINHA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Estarreja;10808;Uniao das freguesias de Beduido e Veiros;ESTARREJA;AVEIRO;null;1;1;null;null;1;null
-Estoril;110508;Uniao das freguesias de Cascais e Estoril;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Evora;70524;Uniao das freguesias de Malagueira e Horta das Figueiras;EVORA;EVORA;null;1;null;null;null;null;null
-Famalicao;31260;Uniao das freguesias de Vila Nova de Famalicao e Calendario;VILA NOVA DE FAMALICAO;BRAGA;1;1;1;null;null;1;null
-Faro;80508;Uniao das freguesias de Faro (Se e Sao Pedro);FARO;FARO;1;1;1;null;null;null;null
-Fatela-Penamacor;50416;Fatela;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Fatima;141814;Sabacheira;TOMAR;SANTAREM;null;1;1;null;null;null;null
-Fernando Po;150806;Uniao das freguesias de Poceirao e Marateca;PALMELA;SETUBAL;null;1;null;null;null;null;null
-Ferradosa;181511;Vale de Figueira;SAO JOAO DA PESQUEIRA;VISEU;null;null;1;null;null;null;null
-Ferrao;171002;Covas do Douro;SABROSA;VILA REAL;null;null;1;null;null;null;null
-Ferreiros;30371;Uniao das freguesias de Ferreiros e Gondizalves;BRAGA;BRAGA;null;null;null;null;null;1;null
-Figueira da Foz;60520;Buarcos e Sao Juliao;FIGUEIRA DA FOZ;COIMBRA;null;null;null;1;null;null;null
-Fogueteiro;151007;Uniao das freguesias do Seixal, Arrentela e Aldeia de Paio Pires;SEIXAL;SETUBAL;null;null;null;null;null;null;1
-Formoselha;61009;Santo Varao;MONTEMOR-O-VELHO;COIMBRA;null;null;1;1;null;null;null
-Fornos de Algodres;90505;Fornos de Algodres;FORNOS DE ALGODRES;GUARDA;null;1;1;null;null;null;null
-Foros de Amora;151002;Amora;SEIXAL;SETUBAL;null;null;null;null;null;null;1
-Francelos;131726;Uniao das freguesias de Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO;null;null;null;null;null;1;null
-Fratel;51101;Fratel;VILA VELHA DE RODAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Freineda;90209;Freineda;ALMEIDA;GUARDA;null;null;1;null;null;null;null
-Freixo de Numao;91419;Vila Nova de Foz Coa;VILA NOVA DE FOZ CoA;GUARDA;null;null;1;null;null;null;null
-Funcheira;21207;Uniao das freguesias de Garvao e Santa Luzia;OURIQUE;BEJA;1;1;null;null;null;null;null
-Fundao;50434;Uniao das freguesias de Fundao, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo;FUNDAO;CASTELO BRANCO;null;1;1;null;null;null;null
-Fungalvaz;141902;Assentiz;TORRES NOVAS;SANTAREM;null;null;1;null;null;null;null
-Fuseta-A;81006;Uniao das freguesias de Moncarapacho e Fuseta;OLHAO;FARO;null;null;1;null;null;null;null
-Gata;90711;Casal de Cinza;GUARDA;GUARDA;null;null;1;null;null;null;null
-General Torres;131730;Uniao das freguesias de Santa Marinha e Sao Pedro da Afurada;VILA NOVA DE GAIA;PORTO;null;null;1;null;null;1;null
-Giesteira;30828;Lordelo;GUIMARAES;BRAGA;null;null;null;null;null;1;null
-Godim;170815;Uniao das freguesias de Peso da Regua e Godim;PESO DA REGUA;VILA REAL;null;null;1;null;null;null;null
-Gondarem;161006;Gondarem;VILA NOVA DE CERVEIRA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Gouveia;180601;Abrunhosa-a-Velha;MANGUALDE;VISEU;null;1;1;null;null;null;null
-Grandola;150506;Uniao das freguesias de Grandola e Santa Margarida da Serra;GRANDOLA;SETUBAL;null;1;1;null;null;null;null
-Granja;131717;Sao Felix da Marinha;VILA NOVA DE GAIA;PORTO;null;null;1;null;null;1;null
-Guarda;90758;Guarda;GUARDA;GUARDA;null;1;1;null;null;null;null
-Guimaraes;30871;Urgezes;GUIMARAES;BRAGA;1;1;null;null;null;1;null
-Irivo;131115;Irivo;PENAFIEL;PORTO;null;null;null;null;null;1;null
-Juncal;130737;Paredes de Viadores e Manhuncelos;MARCO DE CANAVESES;PORTO;null;null;1;null;null;null;null
-Lagos;80708;Sao Goncalo de Lagos;LAGOS;FARO;null;null;1;null;null;null;null
-Lamarosa;141919;Uniao das freguesias de Olaia e Paco;TORRES NOVAS;SANTAREM;null;null;1;null;null;null;null
-Lapa do Lobo;180908;Lapa do Lobo;NELAS;VISEU;null;null;1;null;null;null;null
-Lardosa;50211;Lardosa;CASTELO BRANCO;CASTELO BRANCO;null;null;1;null;null;null;null
-Lavradio;150410;Uniao das freguesias de Barreiro e Lavradio;BARREIRO;SETUBAL;null;null;null;null;1;null;null
-Leandro;130613;Sao Pedro Fins;MAIA;PORTO;null;null;null;null;null;1;null
-Leiria;100934;Uniao das freguesias de Marrazes e Barosa;LEIRIA;LEIRIA;null;null;1;null;null;null;null
-Lisboa Oriente;110662;Parque das Nacoes;LISBOA;LISBOA;1;1;1;null;1;null;null
-Lisboa Santa Apolonia;110667;Sao Vicente;LISBOA;LISBOA;1;1;1;null;1;null;null
-Litem;101519;Uniao das freguesias de Santiago e Sao Simao de Litem e Albergaria dos Doze;POMBAL;LEIRIA;null;null;1;null;null;null;null
-Livracao;130705;Constance;MARCO DE CANAVESES;PORTO;null;null;1;null;null;1;null
-Lordelo;30828;Lordelo;GUIMARAES;BRAGA;null;null;null;null;null;1;null
-Loule;80809;Loule (Sao Sebastiao);LOULE;FARO;1;1;1;null;null;null;null
-Louro;31223;Louro;VILA NOVA DE FAMALICAO;BRAGA;null;null;null;null;null;1;null
-Lousado;31224;Lousado;VILA NOVA DE FAMALICAO;BRAGA;null;null;null;null;null;1;null
-Luso - Bucaco;11104;Luso;MEALHADA;AVEIRO;null;null;1;null;null;null;null
-Madalena;131709;Madalena;VILA NOVA DE GAIA;PORTO;null;null;null;null;null;1;null
-Mangualde;180619;Uniao das freguesias de Mangualde, Mesquitela e Cunha Alta;MANGUALDE;VISEU;null;1;1;null;null;null;null
-Marco de Canaveses;130736;Marco;MARCO DE CANAVESES;PORTO;null;null;1;null;null;1;null
-Marvila;110621;Marvila;LISBOA;LISBOA;null;null;null;null;1;null;null
-Massama-Barcarena;111125;Uniao das freguesias de Massama e Monte Abraao;SINTRA;LISBOA;null;null;null;null;1;null;null
-Mato de Miranda;141201;Azinhaga;GOLEGA;SANTAREM;null;null;1;null;null;null;null
-Mazagao;30367;Uniao das freguesias de Celeiros, Aveleda e Vimieiro;BRAGA;BRAGA;null;null;null;null;null;1;null
-Mealhada;11109;Uniao das freguesias da Mealhada, Ventosa do Bairro e Antes;MEALHADA;AVEIRO;null;1;1;null;null;null;null
-Meia-Praia;80708;Sao Goncalo de Lagos;LAGOS;FARO;null;null;1;null;null;null;null
-Meinedo;130513;Meinedo;LOUSADA;PORTO;null;null;null;null;null;1;null
-Merces;111102;Algueirao-Mem Martins;SINTRA;LISBOA;null;null;null;null;1;null;null
-Midoes;30299;Uniao das freguesias de Gamil e Midoes;BARCELOS;BRAGA;null;null;1;null;null;null;null
-Mira Sintra-Melecas;111126;Uniao das freguesias de Queluz e Belas;SINTRA;LISBOA;null;null;1;null;1;null;null
-Miramar;131701;Arcozelo;VILA NOVA DE GAIA;PORTO;null;null;null;null;null;1;null
-Mirao;130225;Uniao das freguesias de Santa Cruz do Douro e Sao Tome de Covelas;BAIAO;PORTO;null;null;1;null;null;null;null
-Miuzela;90236;Uniao das freguesias de Miuzela e Porto de Ovelha;ALMEIDA;GUARDA;null;null;1;null;null;null;null
-Mogofores;10317;Uniao das freguesias de Arcos e Mogofores;ANADIA;AVEIRO;null;null;1;null;null;null;null
-Moimenta-Alcafache;180606;Espinho;MANGUALDE;VISEU;null;null;1;null;null;null;null
-Moita;150603;Moita;MOITA;SETUBAL;null;null;null;null;1;null;null
-Moledo do Minho;160224;Uniao das freguesias de Moledo e Cristelo;CAMINHA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Monte Abraao;111125;Uniao das freguesias de Massama e Monte Abraao;SINTRA;LISBOA;null;null;null;null;1;null;null
-Monte de Lobos;180811;Uniao das freguesias de Mortagua, Vale de Remigio, Cortegaca e Almaca;MORTAGUA;VISEU;null;null;1;null;null;null;null
-Monte Estoril;110508;Uniao das freguesias de Cascais e Estoril;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Monte Gordo;81603;Monte Gordo;VILA REAL DE SANTO ANTONIO;FARO;null;null;1;null;null;null;null
-Mortagua;180811;Uniao das freguesias de Mortagua, Vale de Remigio, Cortegaca e Almaca;MORTAGUA;VISEU;null;1;1;null;null;null;null
-Moscavide;110726;Uniao das freguesias de Moscavide e Portela;LOURES;LISBOA;null;null;null;null;1;null;null
-Mosteiro;130221;Uniao das freguesias de Ancede e Ribadouro;BAIAO;PORTO;null;null;1;null;null;null;null
-Mouquim;31256;Uniao das freguesias de Lemenhe, Mouquim e Jesufrei;VILA NOVA DE FAMALICAO;BRAGA;null;null;null;null;null;1;null
-Mouriscas-A;140106;Mouriscas;ABRANTES;SANTAREM;null;null;1;null;null;null;null
-Nelas;180903;Nelas;NELAS;VISEU;null;1;1;null;null;null;null
-Nespereira;30832;Nespereira;GUIMARAES;BRAGA;null;null;null;null;null;1;null
-Nine;31227;Nine;VILA NOVA DE FAMALICAO;BRAGA;1;1;1;null;null;1;null
-Oeiras;111014;Uniao das freguesias de Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA;null;null;null;null;1;null;null
-Oia;11403;Oia;OLIVEIRA DO BAIRRO;AVEIRO;null;null;1;null;null;null;null
-Oleiros;131141;Guilhufe e Urro;PENAFIEL;PORTO;null;null;null;null;null;1;null
-Olhao;81003;Olhao;OLHAO;FARO;null;null;1;null;null;null;null
-Oliveira;130147;Vila Mea;AMARANTE;PORTO;null;null;1;null;null;1;null
-Oliveira do Bairro;11404;Oliveira do Bairro;OLIVEIRA DO BAIRRO;AVEIRO;null;null;1;null;null;null;null
-Oliveirinha-Cabanas;180204;Oliveira do Conde;CARREGAL DO SAL;VISEU;null;null;1;null;null;null;null
-Ovar;11509;Uniao das freguesias de Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa;OVAR;AVEIRO;null;1;1;null;null;1;null
-Paco de Arcos;111014;Uniao das freguesias de Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA;null;null;null;null;1;null;null
-Paialvo;141819;Uniao das freguesias de Madalena e Beselga;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Pala;130221;Uniao das freguesias de Ancede e Ribadouro;BAIAO;PORTO;null;null;1;null;null;null;null
-Palmela;150802;Palmela;PALMELA;SETUBAL;null;null;null;null;1;null;1
-Pampilhosa;11106;Pampilhosa;MEALHADA;AVEIRO;null;1;1;null;null;null;null
-Papizios;180208;Carregal do Sal;CARREGAL DO SAL;VISEU;null;null;1;null;null;null;null
-Parada;131017;Parada de Todeia;PAREDES;PORTO;null;null;null;null;null;1;null
-Paraimo-Sangalhos;10309;Sangalhos;ANADIA;AVEIRO;null;null;1;null;null;null;null
-Paramos;10704;Paramos;ESPINHO;AVEIRO;null;null;null;null;null;1;null
-Parede;110507;Uniao das freguesias de Carcavelos e Parede;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Paredes;131025;Paredes;PAREDES;PORTO;null;null;1;null;null;1;null
-Pegoes;150711;Uniao das freguesias de Pegoes;MONTIJO;SETUBAL;null;1;null;null;null;null;null
-Pelariga;101508;Pelariga;POMBAL;LEIRIA;null;null;1;null;null;null;null
-Penafiel;131139;Penafiel;PENAFIEL;PORTO;null;null;1;null;null;1;null
-Penalva;150804;Quinta do Anjo;PALMELA;SETUBAL;null;null;null;null;null;null;1
-Penteado;150603;Moita;MOITA;SETUBAL;null;null;null;null;1;null;null
-Pereira;61008;Pereira;MONTEMOR-O-VELHO;COIMBRA;null;null;1;1;null;null;null
-Pereirinhas;30831;Moreira de Conegos;GUIMARAES;BRAGA;null;null;null;null;null;1;null
-Pinhal Novo;150803;Pinhal Novo;PALMELA;SETUBAL;1;1;null;null;1;null;1
-Pinhao;170109;Pinhao;ALIJO;VILA REAL;null;null;1;null;null;null;null
-Poceirao;150806;Uniao das freguesias de Poceirao e Marateca;PALMELA;SETUBAL;null;1;null;null;null;null;null
-Pocinho;91419;Vila Nova de Foz Coa;VILA NOVA DE FOZ CoA;GUARDA;null;null;1;null;null;null;null
-Pombal;101509;Pombal;POMBAL;LEIRIA;1;1;1;null;null;null;null
-Ponte de Sor;121308;Uniao das freguesias de Ponte de Sor, Tramaga e Vale de Acor;PONTE DE SOR;PORTALEGRE;null;null;1;null;null;null;null
-Porta Nova;81412;Uniao das freguesias de Tavira (Santa Maria e Santiago);TAVIRA;FARO;null;null;1;null;null;null;null
-Portalegre;121410;Urra;PORTALEGRE;PORTALEGRE;null;null;1;null;null;null;null
-Portela;131806;Covelas;TROFA;PORTO;null;null;null;null;null;1;null
-Portela de Sintra;111128;Uniao das freguesias de Sintra (Santa Maria e Sao Miguel, Sao Martinho e Sao Pedro de Penaferrim);SINTRA;LISBOA;null;null;null;null;1;null;null
-Portimao;81103;Portimao;PORTIMAO;FARO;null;null;1;null;null;null;null
-Porto Campanha;131203;Campanha;PORTO;PORTO;1;1;1;null;null;1;null
-Porto Rei;170401;Barqueiros;MESAO FRIO;VILA REAL;null;null;1;null;null;null;null
-Porto Sao Bento;131217;Uniao das freguesias de Cedofeita, Santo Ildefonso, Se, Miragaia, Sao Nicolau e Vitoria;PORTO;PORTO;null;null;1;null;null;1;null
-Povoa;111415;Uniao das freguesias de Povoa de Santa Iria e Forte da Casa;VILA FRANCA DE XIRA;LISBOA;null;null;null;null;1;null;null
-Praca do Quebedo;151210;Uniao das freguesias de Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL;null;null;null;null;1;null;null
-Pragal;150312;Uniao das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas;ALMADA;SETUBAL;null;1;null;null;null;null;1
-Praia do Ribatejo;142002;Praia do Ribatejo;VILA NOVA DA BARQUINHA;SANTAREM;null;null;1;null;null;null;null
-Praias do Sado;151205;Setubal (Sao Sebastiao);SETUBAL;SETUBAL;null;null;null;null;1;null;null
-Queluz-Belas;111126;Uniao das freguesias de Queluz e Belas;SINTRA;LISBOA;null;null;null;null;1;null;null
-Quintans;10508;Oliveirinha;AVEIRO;AVEIRO;null;null;1;null;null;null;null
-Reboleira;111513;Aguas Livres;AMADORA;LISBOA;null;null;null;null;1;null;null
-Recarei-Sobreira;131020;Sobreira;PAREDES;PORTO;null;null;null;null;null;1;null
-Recesinhos;131107;Casteloes;PENAFIEL;PORTO;null;null;1;null;null;1;null
-Rede;170407;Vila Marim;MESAO FRIO;VILA REAL;null;null;1;null;null;null;null
-Regua;170815;Uniao das freguesias de Peso da Regua e Godim;PESO DA REGUA;VILA REAL;null;null;1;null;null;null;null
-Reguengo - Vale da Pedra - Pontevel;140608;Vale da Pedra;CARTAXO;SANTAREM;null;null;1;null;null;null;null
-Retaxo;50226;Uniao das freguesias de Cebolais de Cima e Retaxo;CASTELO BRANCO;CASTELO BRANCO;null;null;1;null;null;null;null
-Riachos - Torres Novas - Golega;141910;Riachos;TORRES NOVAS;SANTAREM;null;null;1;null;null;null;null
-Rio de Mouro;111108;Rio de Mouro;SINTRA;LISBOA;null;null;null;null;1;null;null
-Rio Tinto;130408;Rio Tinto;GONDOMAR;PORTO;null;null;null;null;null;1;null
-Rochoso;90765;Uniao de freguesias de Rochoso e Monte Margarida;GUARDA;GUARDA;null;null;1;null;null;null;null
-Rodao;51104;Vila Velha de Rodao;VILA VELHA DE RODAO;CASTELO BRANCO;null;1;1;null;null;null;null
-Roma-Areeiro;110655;Areeiro;LISBOA;LISBOA;null;null;null;null;1;null;1
-Rossio;110665;Santa Maria Maior;LISBOA;LISBOA;null;null;null;null;1;null;null
-Ruilhe;30338;Ruilhe;BRAGA;BRAGA;null;null;null;null;null;1;null
-Sacavem;110727;Uniao das freguesias de Sacavem e Prior Velho;LOURES;LISBOA;null;null;null;null;1;null;null
-Salreu;10806;Salreu;ESTARREJA;AVEIRO;null;null;null;null;null;1;null
-Santa Cita;141819;Uniao das freguesias de Madalena e Beselga;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Santa Comba Dao;181410;Uniao das freguesias de Ovoa e Vimieiro;SANTA COMBA DAO;VISEU;null;1;1;null;null;null;null
-Santa Cruz Damaia;111513;Aguas Livres;AMADORA;LISBOA;null;null;null;null;1;null;null
-Santa Eulalia-A;120706;Santa Eulalia;ELVAS;PORTALEGRE;null;null;1;null;null;null;null
-Santa Iria;110728;Uniao das freguesias de Santa Iria de Azoia, Sao Joao da Talha e Bobadela;LOURES;LISBOA;null;null;null;null;1;null;null
-Santa Margarida;140803;Santa Margarida da Coutada;CONSTANCIA;SANTAREM;null;null;1;null;null;null;null
-Santana-Cartaxo;140607;Vila Cha de Ourique;CARTAXO;SANTAREM;null;null;1;null;null;null;null
-Santarem;141633;Uniao das freguesias da cidade de Santarem;SANTAREM;SANTAREM;1;1;1;null;null;null;null
-Santo Amaro de Oeiras;111014;Uniao das freguesias de Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias;OEIRAS;LISBOA;null;null;null;null;1;null;null
-Santo Tirso;131437;Uniao das freguesias de Santo Tirso, Couto (Santa Cristina e Sao Miguel) e Burgaes;SANTO TIRSO;PORTO;1;1;null;null;null;1;null
-Santos;110660;Estrela;LISBOA;LISBOA;null;null;null;null;1;null;null
-Sao Frutuoso;130603;Folgosa;MAIA;PORTO;null;null;null;null;null;1;null
-Sao Joao das Craveiras;150711;Uniao das freguesias de Pegoes;MONTIJO;SETUBAL;null;1;null;null;null;null;null
-Sao Joao do Estoril;110508;Uniao das freguesias de Cascais e Estoril;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Sao Martinho do Campo;131506;Uniao das freguesias de Campo e Sobrado;VALONGO;PORTO;null;null;null;null;null;1;null
-Sao Pedro da Torre;160812;Sao Pedro da Torre;VALENCA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Sao Pedro do Estoril;110508;Uniao das freguesias de Cascais e Estoril;CASCAIS;LISBOA;null;null;null;null;1;null;null
-Sao Romao;131811;Uniao das freguesias de Coronado (Sao Romao e Sao Mamede);TROFA;PORTO;null;null;null;null;null;1;null
-Sarnadas;51103;Sarnadas de Rodao;VILA VELHA DE RODAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Seica-Ourem;142113;Seica;OUREM;SANTAREM;null;null;1;null;null;null;null
-Seixas;160215;Seixas;CAMINHA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Senhora da Agonia;160222;Uniao das freguesias de Caminha (Matriz) e Vilarelho;CAMINHA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Senhora das Neves;160938;Vila de Punhe;VIANA DO CASTELO;VIANA DO CASTELO;null;null;1;null;null;null;null
-Sete Rios;110639;Sao Domingos de Benfica;LISBOA;LISBOA;null;1;1;null;1;null;1
-Setil;140608;Vale da Pedra;CARTAXO;SANTAREM;null;null;1;null;null;null;null
-Setubal;151210;Uniao das freguesias de Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca);SETUBAL;SETUBAL;null;null;null;null;1;null;1
-Silva;30279;Silva;BARCELOS;BRAGA;null;null;1;null;null;null;null
-Silvalde;10705;Silvalde;ESPINHO;AVEIRO;null;null;null;null;null;1;null
-Silves;81307;Silves;SILVES;FARO;null;null;1;null;null;null;null
-Simoes;61509;Soure;SOURE;COIMBRA;null;null;1;null;null;null;null
-Sintra;111128;Uniao das freguesias de Sintra (Santa Maria e Sao Miguel, Sao Martinho e Sao Pedro de Penaferrim);SINTRA;LISBOA;null;null;null;null;1;null;null
-Soalheira;50413;Castelo Novo;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Soito;180804;Espinho;MORTAGUA;VISEU;null;null;1;null;null;null;null
-Soudos - Vila Nova;141809;Paialvo;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Soure;61509;Soure;SOURE;COIMBRA;null;null;1;null;null;null;null
-Souselas;60339;Uniao das freguesias de Souselas e Botao;COIMBRA;COIMBRA;null;null;1;null;null;null;null
-Suzao;131505;Valongo;VALONGO;PORTO;null;null;null;null;null;1;null
-Tadim;30381;Uniao das freguesias de Vilaca e Fradelos;BRAGA;BRAGA;null;null;null;null;null;1;null
-Tamel;30202;Aborim;BARCELOS;BRAGA;null;null;1;null;null;null;null
-Tancos;142002;Praia do Ribatejo;VILA NOVA DA BARQUINHA;SANTAREM;null;null;1;null;null;null;null
-Taveiro;60340;Uniao das freguesias de Taveiro, Ameal e Arzila;COIMBRA;COIMBRA;null;null;1;1;null;null;null
-Tavira;81412;Uniao das freguesias de Tavira (Santa Maria e Santiago);TAVIRA;FARO;null;null;1;null;null;null;null
-Terronhas;131019;Recarei;PAREDES;PORTO;null;null;null;null;null;1;null
-Tojeirinha;51104;Vila Velha de Rodao;VILA VELHA DE RODAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Tomar;141821;Uniao das freguesias de Tomar (Sao Joao Baptista) e Santa Maria dos Olivais;TOMAR;SANTAREM;null;null;1;null;null;null;null
-Torre das Vargens;121308;Uniao das freguesias de Ponte de Sor, Tramaga e Vale de Acor;PONTE DE SOR;PORTALEGRE;null;null;1;null;null;null;null
-Torres Vedras;140903;Sao Jose da Lamarosa;CORUCHE;SANTAREM;null;null;1;null;null;null;null
-Tortosendo;50324;Tortosendo;COVILHA;CASTELO BRANCO;null;null;1;null;null;null;null
-Tramagal;140115;Tramagal;ABRANTES;SANTAREM;null;null;1;null;null;null;null
-Trancoso;131019;Recarei;PAREDES;PORTO;null;null;null;null;null;1;null
-Travagem;131503;Ermesinde;VALONGO;PORTO;null;null;null;null;null;1;null
-Trofa;131810;Uniao das freguesias de Bougado (Sao Martinho e Santiago);TROFA;PORTO;1;1;1;null;null;1;null
-Tua;40322;Uniao das freguesias de Castanheiro do Norte e Ribalonga;CARRAZEDA DE ANSIAES;BRAGANCA;null;null;1;null;null;null;null
-Tunes;81310;Uniao das freguesias de Algoz e Tunes;SILVES;FARO;1;1;1;1;null;null;null
-Vacarica;11107;Vacarica;MEALHADA;AVEIRO;null;null;1;null;null;null;null
-Valadares;131726;Uniao das freguesias de Gulpilhares e Valadares;VILA NOVA DE GAIA;PORTO;null;null;null;null;null;1;null
-Vale de Figueira;141634;Uniao das freguesias de Sao Vicente do Paul e Vale de Figueira;SANTAREM;SANTAREM;null;null;1;null;null;null;null
-Vale de Prazeres;50436;Uniao das freguesias de Vale de Prazeres e Mata da Rainha;FUNDAO;CASTELO BRANCO;null;null;1;null;null;null;null
-Vale de Santarem;141625;Vale de Santarem;SANTAREM;SANTAREM;null;null;1;null;null;null;null
-Valega;11507;Valega;OVAR;AVEIRO;null;null;null;null;null;1;null
-Valenca;160820;Uniao das freguesias de Valenca, Cristelo Covo e Arao;VALENCA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Valongo;131505;Valongo;VALONGO;PORTO;null;null;null;null;null;1;null
-Vargelas;181511;Vale de Figueira;SAO JOAO DA PESQUEIRA;VISEU;null;null;1;null;null;null;null
-Venda do Alcaide;150802;Palmela;PALMELA;SETUBAL;null;null;null;null;1;null;1
-Vendas Novas;71201;Vendas Novas;VENDAS NOVAS;EVORA;null;1;null;null;null;null;null
-Vermoil;101519;Uniao das freguesias de Santiago e Sao Simao de Litem e Albergaria dos Doze;POMBAL;LEIRIA;null;null;1;null;null;null;null
-Verride;61015;Uniao das freguesias de Abrunheira, Verride e Vila Nova da Barca;MONTEMOR-O-VELHO;COIMBRA;null;null;1;1;null;null;null
-Vesuvio;91411;Numao;VILA NOVA DE FOZ CoA;GUARDA;null;null;1;null;null;null;null
-Viana do Castelo;160948;Uniao das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela;VIANA DO CASTELO;VIANA DO CASTELO;null;1;1;null;null;null;null
-Vila das Aves;131405;Aves;SANTO TIRSO;PORTO;null;null;null;null;null;1;null
-Vila Fernando;90751;Vila Fernando;GUARDA;GUARDA;null;null;1;null;null;null;null
-Vila Franca das Naves;91334;Uniao das freguesias de Vila Franca das Naves e Feital;TRANCOSO;GUARDA;null;1;1;null;null;null;null
-Vila Franca de Xira;111409;Vila Franca de Xira;VILA FRANCA DE XIRA;LISBOA;null;1;1;null;1;null;null
-Vila Mea;130147;Vila Mea;AMARANTE;PORTO;null;null;1;null;null;1;null
-Vila Nova da Baronia;20302;Vila Nova da Baronia;ALVITO;BEJA;null;1;1;null;null;null;null
-Vila Nova da Rainha;110307;Vila Nova da Rainha;AZAMBUJA;LISBOA;null;null;null;null;1;null;null
-Vila Nova de Ancos;61511;Vila Nova de Ancos;SOURE;COIMBRA;null;null;1;null;null;null;null
-Vila Nova de Cerveira;161019;Uniao das freguesias de Vila Nova de Cerveira e Lovelhe;VILA NOVA DE CERVEIRA;VIANA DO CASTELO;null;null;1;null;null;null;null
-Vila Nova de Gaia - Devesas;131730;Uniao das freguesias de Santa Marinha e Sao Pedro da Afurada;VILA NOVA DE GAIA;PORTO;1;1;1;null;null;1;null
-Vila Pouca do Campo;60340;Uniao das freguesias de Taveiro, Ameal e Arzila;COIMBRA;COIMBRA;null;null;1;1;null;null;null
-Vila Real de Santo Antonio;81602;Vila Real de Santo Antonio;VILA REAL DE SANTO ANTONIO;FARO;null;null;1;null;null;null;null
-Vilar Formoso;90229;Vilar Formoso;ALMEIDA;GUARDA;null;null;1;null;null;null;null
-Vilela-Fornos;60341;Uniao das freguesias de Trouxemil e Torre de Vilela;COIMBRA;COIMBRA;null;null;1;null;null;null;null
-Virtudes;110302;Aveiras de Baixo;AZAMBUJA;LISBOA;null;null;1;null;null;null;null
-Vizela;31408;Uniao das freguesias de Caldas de Vizela (Sao Miguel e Sao Joao);VIZELA;BRAGA;null;null;null;null;null;1;null
+count(CP_AlfaPendular);count(CP_Intercidades);count(CP_Regional);count(CP_Urbanos_Coimbra);count(CP_Urbanos_Lisboa);count(CP_Urbanos_Porto);Dicofre;Freguesia
+0;0;2;0;0;0;140608;Vale da Pedra
+1;1;1;0;0;0;80508;Uniao das freguesias de Faro (Se e Sao Pedro)
+0;0;1;0;0;0;160217;Vila Praia de Ancora
+0;0;2;0;0;0;160222;Uniao das freguesias de Caminha (Matriz) e Vilarelho
+0;0;0;0;0;1;130613;Sao Pedro Fins
+0;0;0;0;0;1;130408;Rio Tinto
+0;0;0;0;0;1;131103;Bustelo
+0;0;1;0;0;0;180901;Canas de Senhorim
+0;0;2;0;0;0;91419;Vila Nova de Foz Coa
+0;0;2;0;0;0;80708;Sao Goncalo de Lagos
+0;0;1;0;0;0;10317;Uniao das freguesias de Arcos e Mogofores
+0;0;1;0;0;0;180204;Oliveira do Conde
+0;0;0;0;3;0;150410;Uniao das freguesias de Barreiro e Lavradio
+0;0;1;0;0;0;160812;Sao Pedro da Torre
+0;0;3;0;0;0;142002;Praia do Ribatejo
+0;0;0;0;0;1;31204;Bairro
+0;0;1;0;0;0;120607;Uniao das freguesias de Crato e Martires, Flor da Rosa e Vale do Peso
+0;0;1;0;0;1;11503;Esmoriz
+0;1;1;0;0;0;20302;Vila Nova da Baronia
+0;0;1;0;0;0;50203;Benquerencas
+0;0;0;0;2;0;110507;Uniao das freguesias de Carcavelos e Parede
+0;0;1;0;0;0;161016;Uniao das freguesias de Campos e Vila Mea
+0;1;0;0;0;0;70605;Santiago do Escoural
+0;0;1;0;0;2;131503;Ermesinde
+0;0;1;0;0;0;141625;Vale de Santarem
+0;1;1;1;0;0;61506;Granja do Ulmeiro
+0;0;0;0;1;0;110608;Benfica
+1;1;1;0;0;0;80809;Loule (Sao Sebastiao)
+0;0;1;0;0;0;141634;Uniao das freguesias de Sao Vicente do Paul e Vale de Figueira
+0;0;1;0;0;0;130215;Santa Marinha do Zezere
+0;0;1;0;2;0;111126;Uniao das freguesias de Queluz e Belas
+0;0;1;0;0;0;160820;Uniao das freguesias de Valenca, Cristelo Covo e Arao
+0;1;1;0;0;0;140124;Uniao das freguesias de Sao Miguel do Rio Torto e Rossio ao Sul do Tejo
+0;0;0;0;0;1;10809;Uniao das freguesias de Canelas e Fermela
+1;1;1;1;0;0;60337;Uniao das freguesias de Sao Martinho de Arvore e Lamarosa
+0;0;1;0;0;0;140803;Santa Margarida da Coutada
+0;1;1;0;1;0;110639;Sao Domingos de Benfica
+0;0;1;0;0;0;51103;Sarnadas de Rodao
+0;0;1;0;0;0;121101;Assumar
+0;1;1;0;0;0;50205;Castelo Branco
+0;0;0;0;0;1;30216;Cambeses
+0;0;0;0;0;1;31256;Uniao das freguesias de Lemenhe, Mouquim e Jesufrei
+0;0;0;0;0;1;11502;Cortegaca
+0;0;2;0;0;0;141307;Ortiga
+0;0;1;0;0;0;90711;Casal de Cinza
+0;0;0;0;1;0;111415;Uniao das freguesias de Povoa de Santa Iria e Forte da Casa
+0;0;1;0;0;1;131025;Paredes
+0;0;1;0;0;0;170813;Uniao das freguesias de Galafura e Covelinhas
+0;1;2;0;0;0;50434;Uniao das freguesias de Fundao, Valverde, Donas, Aldeia de Joanes e Aldeia Nova do Cabo
+0;0;3;0;0;0;101519;Uniao das freguesias de Santiago e Sao Simao de Litem e Albergaria dos Doze
+0;0;1;0;0;0;91411;Numao
+0;0;1;0;0;0;11404;Oliveira do Bairro
+0;0;2;0;0;0;81412;Uniao das freguesias de Tavira (Santa Maria e Santiago)
+0;0;1;0;0;0;90751;Vila Fernando
+1;1;2;0;0;2;131730;Uniao das freguesias de Santa Marinha e Sao Pedro da Afurada
+0;0;1;1;0;0;61009;Santo Varao
+0;0;1;0;0;0;141201;Azinhaga
+0;0;1;0;0;0;120102;Chancelaria
+0;0;1;0;0;0;160215;Seixas
+0;1;0;0;0;0;71201;Vendas Novas
+0;1;0;0;0;0;70525;Uniao das freguesias de Nossa Senhora da Tourega e Nossa Senhora de Guadalupe
+0;0;1;0;0;0;50324;Tortosendo
+0;0;0;0;4;0;111014;Uniao das freguesias de Oeiras e Sao Juliao da Barra, Paco de Arcos e Caxias
+0;1;1;0;0;0;150506;Uniao das freguesias de Grandola e Santa Margarida da Serra
+0;0;1;0;0;0;30202;Aborim
+0;1;1;0;0;0;50335;Uniao das freguesias de Covilha e Canhoso
+0;0;1;0;0;0;120706;Santa Eulalia
+0;2;0;0;0;0;150711;Uniao das freguesias de Pegoes
+0;0;0;0;0;1;31254;Uniao das freguesias de Esmeriz e Cabecudos
+0;0;1;0;0;0;160905;Areosa
+0;0;1;0;0;1;130705;Constance
+0;0;1;0;0;0;91113;Cerdeira
+0;1;2;0;0;0;180811;Uniao das freguesias de Mortagua, Vale de Remigio, Cortegaca e Almaca
+0;0;0;0;0;1;130603;Folgosa
+0;0;0;0;0;1;131709;Madalena
+0;0;1;0;0;1;131139;Penafiel
+0;0;0;0;2;0;110728;Uniao das freguesias de Santa Iria de Azoia, Sao Joao da Talha e Bobadela
+0;0;1;0;0;0;180908;Lapa do Lobo
+0;0;1;0;0;0;161019;Uniao das freguesias de Vila Nova de Cerveira e Lovelhe
+0;0;0;0;0;1;11504;Maceda
+0;0;1;0;0;0;130737;Paredes de Viadores e Manhuncelos
+0;1;1;0;0;1;11509;Uniao das freguesias de Ovar, Sao Joao, Arada e Sao Vicente de Pereira Jusa
+0;0;0;0;1;0;111012;Uniao das freguesias de Alges, Linda-a-Velha e Cruz Quebrada-Dafundo
+0;0;1;0;0;0;100617;Uniao das freguesias de Caldas da Rainha - Nossa Senhora do Populo, Coto e Sao Gregorio
+0;0;0;0;1;0;110610;Campolide
+0;0;1;0;0;1;131717;Sao Felix da Marinha
+0;0;1;0;0;0;140115;Tramagal
+0;0;0;0;0;1;30363;Uniao das freguesias de Arentim e Cunha
+1;1;1;0;0;0;141002;Nossa Senhora de Fatima
+0;0;1;0;0;0;160938;Vila de Punhe
+0;0;1;0;0;0;180606;Espinho
+0;0;1;0;0;0;90207;Castelo Bom
+1;1;1;0;0;2;31260;Uniao das freguesias de Vila Nova de Famalicao e Calendario
+0;1;1;0;0;0;180601;Abrunhosa-a-Velha
+0;0;1;0;0;0;51101;Fratel
+1;1;1;0;0;0;101509;Pombal
+0;0;0;0;2;0;111513;Aguas Livres
+0;0;0;0;0;2;131701;Arcozelo
+0;1;1;0;0;0;11109;Uniao das freguesias da Mealhada, Ventosa do Bairro e Antes
+0;0;2;0;0;0;61509;Soure
+0;0;1;0;0;1;130504;Caide de Rei
+0;0;1;0;0;0;90209;Freineda
+0;1;1;0;0;0;181410;Uniao das freguesias de Ovoa e Vimieiro
+0;0;0;0;1;0;150607;Uniao das freguesias de Baixa da Banheira e Vale da Amoreira
+0;0;1;0;0;0;10508;Oliveirinha
+0;1;1;0;0;0;30209;Arcozelo
+0;0;0;0;2;0;110621;Marvila
+0;0;0;0;0;1;131501;Alfena
+0;0;0;0;0;1;131008;Cete
+0;0;0;0;0;1;10704;Paramos
+0;0;1;0;0;0;170109;Pinhao
+0;0;1;0;0;0;90302;Baracal
+0;0;1;0;0;0;30279;Silva
+1;1;0;0;0;2;30871;Urgezes
+0;0;0;0;2;0;111102;Algueirao-Mem Martins
+0;0;1;1;0;0;61015;Uniao das freguesias de Abrunheira, Verride e Vila Nova da Barca
+0;0;1;0;0;0;120201;Assuncao
+0;1;1;0;0;0;142104;Caxarias
+0;0;0;0;0;1;131704;Canidelo
+0;0;0;0;0;1;10502;Cacia
+0;0;0;0;2;0;151210;Uniao das freguesias de Setubal (Sao Juliao, Nossa Senhora da Anunciada e Santa Maria da Graca)
+1;1;1;0;1;0;110662;Parque das Nacoes
+0;0;1;0;0;0;142113;Seica
+0;0;1;0;1;0;110304;Azambuja
+0;0;0;0;0;2;30367;Uniao das freguesias de Celeiros, Aveleda e Vimieiro
+0;0;0;0;2;0;150603;Moita
+0;0;2;0;0;2;130147;Vila Mea
+0;0;0;0;0;1;130601;Aguas Santas
+1;1;0;0;1;0;150803;Pinhal Novo
+0;0;1;0;0;0;181406;Sao Joao de Areias
+0;0;1;0;1;0;111516;Mina de Agua
+0;0;1;0;0;0;80804;Boliqueime
+0;0;1;1;0;0;61011;Tentugal
+0;0;1;0;0;0;170407;Vila Marim
+0;0;1;0;0;0;140106;Mouriscas
+1;1;1;0;0;0;141633;Uniao das freguesias da cidade de Santarem
+0;0;0;0;0;1;10705;Silvalde
+0;1;1;0;0;0;90505;Fornos de Algodres
+0;0;1;0;0;0;160902;Alvaraes
+0;0;1;0;0;0;171002;Covas do Douro
+0;0;1;0;0;0;30299;Uniao das freguesias de Gamil e Midoes
+0;0;0;0;2;0;111414;Uniao das freguesias de Castanheira do Ribatejo e Cachoeiras
+0;0;1;0;0;0;140903;Sao Jose da Lamarosa
+0;1;1;0;0;1;10808;Uniao das freguesias de Beduido e Veiros
+0;0;1;0;0;0;40322;Uniao das freguesias de Castanheiro do Norte e Ribalonga
+0;0;2;0;0;0;10318;Uniao das freguesias de Tamengos, Aguim e Ois do Bairro
+0;0;0;0;0;1;30381;Uniao das freguesias de Vilaca e Fradelos
+0;0;1;0;0;0;50402;Alcaria
+0;0;0;0;1;0;110661;Misericordia
+0;0;1;0;0;0;81003;Olhao
+0;0;2;0;0;0;121308;Uniao das freguesias de Ponte de Sor, Tramaga e Vale de Acor
+0;0;0;0;2;0;111128;Uniao das freguesias de Sintra (Santa Maria e Sao Miguel, Sao Martinho e Sao Pedro de Penaferrim)
+0;0;0;0;1;0;110726;Uniao das freguesias de Moscavide e Portela
+0;0;0;0;0;2;131726;Uniao das freguesias de Gulpilhares e Valadares
+0;0;0;0;0;1;131115;Irivo
+0;0;1;0;0;0;90229;Vilar Formoso
+1;1;1;0;0;1;31227;Nine
+0;0;2;0;0;0;50413;Castelo Novo
+0;1;1;0;0;0;20701;Cuba
+0;0;1;0;1;0;111122;Uniao das freguesias de Agualva e Mira-Sintra
+0;0;1;0;0;0;50226;Uniao das freguesias de Cebolais de Cima e Retaxo
+0;0;0;0;0;1;10806;Salreu
+0;1;1;0;0;0;180619;Uniao das freguesias de Mangualde, Mesquitela e Cunha Alta
+0;0;3;0;0;0;141809;Paialvo
+0;0;1;0;0;1;130736;Marco
+0;0;1;0;0;0;101508;Pelariga
+0;0;1;0;0;0;90765;Uniao de freguesias de Rochoso e Monte Margarida
+0;0;1;0;0;0;180804;Espinho
+0;0;0;0;1;0;111412;Uniao das freguesias de Alhandra, Sao Joao dos Montes e Calhandriz
+0;0;0;0;0;2;30828;Lordelo
+0;0;0;0;0;0;150804;Quinta do Anjo
+0;0;0;0;0;2;131505;Valongo
+0;2;0;0;0;0;150806;Uniao das freguesias de Poceirao e Marateca
+1;1;0;0;0;1;30364;Uniao das freguesias de Braga (Maximinos, Se e Cividade)
+0;0;0;0;0;1;30371;Uniao das freguesias de Ferreiros e Gondizalves
+0;0;1;0;0;0;81601;Vila Nova de Cacela
+0;1;2;0;0;0;51104;Vila Velha de Rodao
+0;0;1;0;0;0;141821;Uniao das freguesias de Tomar (Sao Joao Baptista) e Santa Maria dos Olivais
+0;1;1;0;0;0;20520;Uniao das freguesias de Beja (Salvador e Santa Maria da Feira)
+0;0;3;0;0;0;141819;Uniao das freguesias de Madalena e Beselga
+0;0;0;0;1;0;110665;Santa Maria Maior
+0;0;1;0;0;0;141919;Uniao das freguesias de Olaia e Paco
+0;0;0;0;0;1;130513;Meinedo
+0;0;2;0;0;0;170815;Uniao das freguesias de Peso da Regua e Godim
+0;0;1;0;1;0;111413;Uniao das freguesias de Alverca do Ribatejo e Sobralinho
+0;1;1;0;0;0;141814;Sabacheira
+0;0;0;0;0;0;151002;Amora
+0;0;1;0;0;0;60339;Uniao das freguesias de Souselas e Botao
+0;0;0;0;0;0;151007;Uniao das freguesias do Seixal, Arrentela e Aldeia de Paio Pires
+0;1;1;0;0;0;160948;Uniao das freguesias de Viana do Castelo (Santa Maria Maior e Monserrate) e Meadela
+0;0;3;3;0;0;60340;Uniao das freguesias de Taveiro, Ameal e Arzila
+0;0;0;0;0;1;31408;Uniao das freguesias de Caldas de Vizela (Sao Miguel e Sao Joao)
+0;0;1;0;0;0;160908;Carreco
+0;0;1;0;0;0;160211;Lanhelas
+0;0;1;0;0;0;160224;Uniao das freguesias de Moledo e Cristelo
+0;0;1;0;0;0;11107;Vacarica
+0;0;1;0;0;0;81307;Silves
+0;0;1;0;0;0;161006;Gondarem
+0;1;1;0;1;0;111409;Vila Franca de Xira
+0;0;1;0;0;0;11403;Oia
+0;0;0;0;1;0;110655;Areeiro
+0;0;0;0;0;1;131506;Uniao das freguesias de Campo e Sobrado
+0;0;0;0;0;1;10801;Avanca
+0;0;1;0;0;0;141305;Envendos
+1;1;1;0;0;1;10702;Espinho
+0;0;1;0;0;0;141902;Assentiz
+0;0;0;0;0;1;131811;Uniao das freguesias de Coronado (Sao Romao e Sao Mamede)
+0;0;1;0;0;0;40308;Linhares
+0;1;1;0;0;0;180903;Nelas
+0;0;0;0;1;0;150601;Alhos Vedros
+0;0;0;0;0;1;11507;Valega
+0;0;1;0;0;0;100934;Uniao das freguesias de Marrazes e Barosa
+0;1;0;0;0;0;150312;Uniao das freguesias de Almada, Cova da Piedade, Pragal e Cacilhas
+0;0;1;0;0;0;50416;Fatela
+0;0;1;0;0;0;50211;Lardosa
+0;1;2;0;0;0;180208;Carregal do Sal
+0;0;1;0;0;0;30218;Carapecos
+0;0;1;0;0;1;131217;Uniao das freguesias de Cedofeita, Santo Ildefonso, Se, Miragaia, Sao Nicolau e Vitoria
+0;0;1;0;0;0;110302;Aveiras de Baixo
+0;1;1;0;0;0;11106;Pampilhosa
+0;0;0;0;0;1;131141;Guilhufe e Urro
+0;0;0;0;0;1;31223;Louro
+0;0;1;0;0;0;30295;Uniao das freguesias de Carreira e Fonte Coberta
+0;0;1;0;0;0;100506;Uniao das freguesias do Bombarral e Vale Covo
+0;0;0;0;0;1;131405;Aves
+0;0;1;0;0;0;61511;Vila Nova de Ancos
+0;0;0;0;0;2;30831;Moreira de Conegos
+0;0;0;0;1;0;110658;Belem
+0;0;0;0;0;1;131017;Parada de Todeia
+0;0;0;0;1;0;110727;Uniao das freguesias de Sacavem e Prior Velho
+0;0;1;0;0;0;170802;Fontelas
+1;1;0;0;0;0;21207;Uniao das freguesias de Garvao e Santa Luzia
+0;0;0;0;0;2;131019;Recarei
+0;0;1;0;0;0;50401;Alcaide
+0;0;2;0;0;0;130221;Uniao das freguesias de Ancede e Ribadouro
+0;0;2;0;0;0;160911;Darque
+0;1;1;0;0;0;90758;Guarda
+0;0;0;0;1;0;151205;Setubal (Sao Sebastiao)
+0;0;2;0;0;0;60341;Uniao das freguesias de Trouxemil e Torre de Vilela
+0;0;1;1;0;0;61008;Pereira
+0;0;1;0;0;0;121410;Urra
+0;0;0;0;0;0;151005;Corroios
+0;0;1;0;0;0;120713;Caia, Sao Pedro e Alcacova
+0;0;1;0;0;0;81103;Portimao
+1;1;0;0;0;0;150904;Ermidas-Sado
+1;1;0;0;0;1;131437;Uniao das freguesias de Santo Tirso, Couto (Santa Cristina e Sao Miguel) e Burgaes
+0;0;2;0;0;0;170401;Barqueiros
+0;0;1;0;0;0;140120;Uniao das freguesias de Abrantes (Sao Vicente e Sao Joao) e Alferrarede
+0;0;0;1;0;0;60520;Buarcos e Sao Juliao
+0;0;1;0;0;0;11104;Luso
+1;1;1;0;0;1;131810;Uniao das freguesias de Bougado (Sao Martinho e Santiago)
+0;0;0;0;0;1;30832;Nespereira
+0;0;0;0;0;1;131806;Covelas
+1;1;1;0;0;1;10517;Uniao das freguesias de Gloria e Vera Cruz
+0;0;1;0;0;0;141910;Riachos
+0;0;0;0;2;0;150802;Palmela
+0;0;3;3;0;0;60338;Uniao das freguesias de Sao Martinho do Bispo e Ribeira de Frades
+0;0;0;0;2;0;110307;Vila Nova da Rainha
+0;0;1;0;0;0;50436;Uniao das freguesias de Vale de Prazeres e Mata da Rainha
+0;0;0;0;2;0;111125;Uniao das freguesias de Massama e Monte Abraao
+0;1;1;0;0;0;91334;Uniao das freguesias de Vila Franca das Naves e Feital
+0;0;1;0;0;0;50406;Alpedrinha
+0;1;1;0;0;0;90306;Forno Telheiro
+1;1;1;0;0;2;131203;Campanha
+0;0;1;0;0;0;90236;Uniao das freguesias de Miuzela e Porto de Ovelha
+0;0;1;0;0;0;81603;Monte Gordo
+0;0;1;0;0;0;142006;Vila Nova da Barquinha
+0;0;1;0;0;0;140123;Uniao das freguesias de Sao Facundo e Vale das Mos
+0;0;1;0;0;0;140607;Vila Cha de Ourique
+0;0;1;0;0;0;10309;Sangalhos
+0;0;0;0;1;0;111108;Rio de Mouro
+0;0;1;0;0;0;50201;Alcains
+0;0;1;0;0;0;81006;Uniao das freguesias de Moncarapacho e Fuseta
+0;0;0;0;0;1;31224;Lousado
+0;0;0;0;0;1;131020;Sobreira
+0;0;2;0;0;0;181511;Vale de Figueira
+0;0;1;0;0;1;131107;Casteloes
+0;0;0;0;1;0;110660;Estrela
+0;0;1;0;0;0;81602;Vila Real de Santo Antonio
+1;1;1;0;0;0;80104;Ferreiras
+0;1;1;0;0;0;160941;Uniao das freguesias de Barroselas e Carvoeiro
+1;1;2;1;0;0;81310;Uniao das freguesias de Algoz e Tunes
+0;1;0;0;0;0;70524;Uniao das freguesias de Malagueira e Horta das Figueiras
+1;1;1;0;1;0;110667;Sao Vicente
+0;0;0;0;0;1;30338;Ruilhe
+0;0;0;0;2;0;110660;Alcantara
+0;0;0;0;5;0;110508;Uniao das freguesias de Cascais e Estoril
+0;0;1;0;0;0;30298;Uniao das freguesias de Durraes e Tregosa
+1;1;1;0;1;0;110657;Avenidas Novas
+0;0;1;0;0;0;160901;Afife
+0;1;1;0;0;0;20301;Alvito
+0;0;2;0;0;0;130225;Uniao das freguesias de Santa Cruz do Douro e Sao Tome de Covelas
